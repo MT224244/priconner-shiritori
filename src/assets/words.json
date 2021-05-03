@@ -1,0 +1,6026 @@
+[
+    {
+        "no": 1,
+        "group": "apple",
+        "yomi": "フツウ",
+        "word": "リンゴ",
+        "start": "り",
+        "end": "ご"
+    },
+    {
+        "no": 2,
+        "group": "apple",
+        "yomi": "ウラ",
+        "word": "アップル",
+        "start": "あ",
+        "end": "る"
+    },
+    {
+        "no": 3,
+        "group": "apple",
+        "yomi": "ウラ",
+        "word": "きんだんのかじつ",
+        "start": "き",
+        "end": "つ"
+    },
+    {
+        "no": 4,
+        "group": "gorilla",
+        "yomi": "フツウ",
+        "word": "ゴリラ",
+        "start": "ご",
+        "end": "ら"
+    },
+    {
+        "no": 5,
+        "group": "gorilla",
+        "yomi": "ウラ",
+        "word": "れいちょうるい",
+        "start": "れ",
+        "end": "い"
+    },
+    {
+        "no": 6,
+        "group": "gorilla",
+        "yomi": "ウラ",
+        "word": "うほうほ",
+        "start": "う",
+        "end": "ほ"
+    },
+    {
+        "no": 7,
+        "group": "gorilla",
+        "yomi": "プリコネ",
+        "word": "マスター・ウキキー",
+        "start": "ま",
+        "end": "き"
+    },
+    {
+        "no": 8,
+        "group": "trumpet",
+        "yomi": "フツウ",
+        "word": "ラッパ",
+        "start": "ら",
+        "end": "ぱ"
+    },
+    {
+        "no": 9,
+        "group": "trumpet",
+        "yomi": "ウラ",
+        "word": "トランペット",
+        "start": "と",
+        "end": "と"
+    },
+    {
+        "no": 10,
+        "group": "trumpet",
+        "yomi": "ウラ",
+        "word": "かんがっき",
+        "start": "か",
+        "end": "き"
+    },
+    {
+        "no": 11,
+        "group": "pineapple",
+        "yomi": "フツウ",
+        "word": "パイナップル",
+        "start": "ぱ",
+        "end": "る"
+    },
+    {
+        "no": 12,
+        "group": "pineapple",
+        "yomi": "ウラ",
+        "word": "アナナス",
+        "start": "あ",
+        "end": "す"
+    },
+    {
+        "no": 13,
+        "group": "ruby",
+        "yomi": "フツウ",
+        "word": "ルビー",
+        "start": "る",
+        "end": "び"
+    },
+    {
+        "no": 14,
+        "group": "ruby",
+        "yomi": "フツウ",
+        "word": "ほうせき",
+        "start": "ほ",
+        "end": "き"
+    },
+    {
+        "no": 15,
+        "group": "ruby",
+        "yomi": "ウラ",
+        "word": "ガーネット",
+        "start": "が",
+        "end": "と"
+    },
+    {
+        "no": 16,
+        "group": "ruby",
+        "yomi": "ウラ",
+        "word": "ジュエリー",
+        "start": "じ",
+        "end": "り"
+    },
+    {
+        "no": 17,
+        "group": "ruby",
+        "yomi": "プリコネ",
+        "word": "アキノのブローチ",
+        "start": "あ",
+        "end": "ち"
+    },
+    {
+        "no": 18,
+        "group": "ruby",
+        "yomi": "プリコネ",
+        "word": "こうきせきウィスタリア",
+        "start": "こ",
+        "end": "あ"
+    },
+    {
+        "no": 19,
+        "group": "beer",
+        "yomi": "フツウ",
+        "word": "ビールっぽいもの",
+        "start": "び",
+        "end": "の"
+    },
+    {
+        "no": 20,
+        "group": "beer",
+        "yomi": "フツウ",
+        "word": "ジョッキ",
+        "start": "じ",
+        "end": "き"
+    },
+    {
+        "no": 21,
+        "group": "beer",
+        "yomi": "プリコネ",
+        "word": "むぎしゅわ",
+        "start": "む",
+        "end": "わ"
+    },
+    {
+        "no": 22,
+        "group": "beer",
+        "yomi": "プリコネ",
+        "word": "エターナルジョッキ",
+        "start": "え",
+        "end": "き"
+    },
+    {
+        "no": 23,
+        "group": "bow",
+        "yomi": "フツウ",
+        "word": "ゆみや",
+        "start": "ゆ",
+        "end": "や"
+    },
+    {
+        "no": 24,
+        "group": "bow",
+        "yomi": "ウラ",
+        "word": "とびどうぐ",
+        "start": "と",
+        "end": "ぐ"
+    },
+    {
+        "no": 25,
+        "group": "bow",
+        "yomi": "ウラ",
+        "word": "アロー",
+        "start": "あ",
+        "end": "ろ"
+    },
+    {
+        "no": 26,
+        "group": "bow",
+        "yomi": "ウラ",
+        "word": "ボウ",
+        "start": "ぼ",
+        "end": "う"
+    },
+    {
+        "no": 27,
+        "group": "note",
+        "yomi": "フツウ",
+        "word": "おんぷ",
+        "start": "お",
+        "end": "ぷ"
+    },
+    {
+        "no": 28,
+        "group": "note",
+        "yomi": "フツウ",
+        "word": "リズム",
+        "start": "り",
+        "end": "む"
+    },
+    {
+        "no": 29,
+        "group": "note",
+        "yomi": "ウラ",
+        "word": "ミュージック",
+        "start": "み",
+        "end": "く"
+    },
+    {
+        "no": 30,
+        "group": "note",
+        "yomi": "ウラ",
+        "word": "うた",
+        "start": "う",
+        "end": "た"
+    },
+    {
+        "no": 31,
+        "group": "note",
+        "yomi": "ウラ",
+        "word": "ドレミ",
+        "start": "ど",
+        "end": "み"
+    },
+    {
+        "no": 32,
+        "group": "paints",
+        "yomi": "フツウ",
+        "word": "えのぐ",
+        "start": "え",
+        "end": "ぐ"
+    },
+    {
+        "no": 33,
+        "group": "paints",
+        "yomi": "ウラ",
+        "word": "チューブ",
+        "start": "ち",
+        "end": "ぶ"
+    },
+    {
+        "no": 34,
+        "group": "paints",
+        "yomi": "ウラ",
+        "word": "ブルー",
+        "start": "ぶ",
+        "end": "る"
+    },
+    {
+        "no": 35,
+        "group": "paints",
+        "yomi": "ウラ",
+        "word": "あおいえのぐ",
+        "start": "あ",
+        "end": "ぐ"
+    },
+    {
+        "no": 36,
+        "group": "sword",
+        "yomi": "フツウ",
+        "word": "けん",
+        "start": "け",
+        "end": "ん"
+    },
+    {
+        "no": 37,
+        "group": "sword",
+        "yomi": "フツウ",
+        "word": "ソード",
+        "start": "そ",
+        "end": "ど"
+    },
+    {
+        "no": 38,
+        "group": "sword",
+        "yomi": "ウラ",
+        "word": "つるぎ",
+        "start": "つ",
+        "end": "ぎ"
+    },
+    {
+        "no": 39,
+        "group": "sword",
+        "yomi": "ウラ",
+        "word": "はもの",
+        "start": "は",
+        "end": "の"
+    },
+    {
+        "no": 40,
+        "group": "sword",
+        "yomi": "プリコネ",
+        "word": "プリンセスソード",
+        "start": "ぷ",
+        "end": "ど"
+    },
+    {
+        "no": 41,
+        "group": "glasses",
+        "yomi": "フツウ",
+        "word": "めがね",
+        "start": "め",
+        "end": "ね"
+    },
+    {
+        "no": 42,
+        "group": "glasses",
+        "yomi": "ウラ",
+        "word": "レンズ",
+        "start": "れ",
+        "end": "ず"
+    },
+    {
+        "no": 43,
+        "group": "glasses",
+        "yomi": "ウラ",
+        "word": "ビンぞこめがね",
+        "start": "び",
+        "end": "ね"
+    },
+    {
+        "no": 44,
+        "group": "glasses",
+        "yomi": "ウラ",
+        "word": "ぐるぐるめがね",
+        "start": "ぐ",
+        "end": "ね"
+    },
+    {
+        "no": 45,
+        "group": "glasses",
+        "yomi": "プリコネ",
+        "word": "カリンのめがね",
+        "start": "か",
+        "end": "ね"
+    },
+    {
+        "no": 46,
+        "group": "magnifying-glass",
+        "yomi": "フツウ",
+        "word": "むしめがね",
+        "start": "む",
+        "end": "ね"
+    },
+    {
+        "no": 47,
+        "group": "magnifying-glass",
+        "yomi": "フツウ",
+        "word": "レンズ",
+        "start": "れ",
+        "end": "ず"
+    },
+    {
+        "no": 48,
+        "group": "magnifying-glass",
+        "yomi": "フツウ",
+        "word": "ルーペ",
+        "start": "る",
+        "end": "ぺ"
+    },
+    {
+        "no": 49,
+        "group": "magnifying-glass",
+        "yomi": "ウラ",
+        "word": "ズーム",
+        "start": "ず",
+        "end": "む"
+    },
+    {
+        "no": 50,
+        "group": "magnifying-glass",
+        "yomi": "プリコネ",
+        "word": "たんていのひっすアイテム",
+        "start": "た",
+        "end": "む"
+    },
+    {
+        "no": 51,
+        "group": "magnifying-glass",
+        "yomi": "プリコネ",
+        "word": "ディテクティブルーペ",
+        "start": "で",
+        "end": "ぺ"
+    },
+    {
+        "no": 52,
+        "group": "meat",
+        "yomi": "フツウ",
+        "word": "にく",
+        "start": "に",
+        "end": "く"
+    },
+    {
+        "no": 53,
+        "group": "meat",
+        "yomi": "ウラ",
+        "word": "りょうり",
+        "start": "り",
+        "end": "り"
+    },
+    {
+        "no": 54,
+        "group": "meat",
+        "yomi": "ウラ",
+        "word": "ミート",
+        "start": "み",
+        "end": "と"
+    },
+    {
+        "no": 55,
+        "group": "meat",
+        "yomi": "ウラ",
+        "word": "ほねつきにく",
+        "start": "ほ",
+        "end": "く"
+    },
+    {
+        "no": 56,
+        "group": "meat",
+        "yomi": "プリコネ",
+        "word": "ドラゴンのにく",
+        "start": "ど",
+        "end": "く"
+    },
+    {
+        "no": 57,
+        "group": "moon",
+        "yomi": "フツウ",
+        "word": "つき",
+        "start": "つ",
+        "end": "き"
+    },
+    {
+        "no": 58,
+        "group": "moon",
+        "yomi": "フツウ",
+        "word": "まんげつ",
+        "start": "ま",
+        "end": "つ"
+    },
+    {
+        "no": 59,
+        "group": "moon",
+        "yomi": "ウラ",
+        "word": "ムーン",
+        "start": "む",
+        "end": "ん"
+    },
+    {
+        "no": 60,
+        "group": "moon",
+        "yomi": "ウラ",
+        "word": "ルナ",
+        "start": "る",
+        "end": "な"
+    },
+    {
+        "no": 61,
+        "group": "moon",
+        "yomi": "プリコネ",
+        "word": "めいげつ",
+        "start": "め",
+        "end": "つ"
+    },
+    {
+        "no": 62,
+        "group": "bat",
+        "yomi": "フツウ",
+        "word": "こうもり",
+        "start": "こ",
+        "end": "り"
+    },
+    {
+        "no": 63,
+        "group": "bat",
+        "yomi": "フツウ",
+        "word": "バット",
+        "start": "ば",
+        "end": "と"
+    },
+    {
+        "no": 64,
+        "group": "bat",
+        "yomi": "ウラ",
+        "word": "きゅうけつき",
+        "start": "き",
+        "end": "き"
+    },
+    {
+        "no": 65,
+        "group": "bat",
+        "yomi": "プリコネ",
+        "word": "イリヤのけんぞく",
+        "start": "い",
+        "end": "く"
+    },
+    {
+        "no": 66,
+        "group": "bird",
+        "yomi": "フツウ",
+        "word": "とり",
+        "start": "と",
+        "end": "り"
+    },
+    {
+        "no": 67,
+        "group": "bird",
+        "yomi": "フツウ",
+        "word": "まもの",
+        "start": "ま",
+        "end": "の"
+    },
+    {
+        "no": 68,
+        "group": "bird",
+        "yomi": "ウラ",
+        "word": "バード",
+        "start": "ば",
+        "end": "ど"
+    },
+    {
+        "no": 69,
+        "group": "bird",
+        "yomi": "プリコネ",
+        "word": "ジズ",
+        "start": "じ",
+        "end": "ず"
+    },
+    {
+        "no": 70,
+        "group": "shoes",
+        "yomi": "フツウ",
+        "word": "くつ",
+        "start": "く",
+        "end": "つ"
+    },
+    {
+        "no": 71,
+        "group": "shoes",
+        "yomi": "フツウ",
+        "word": "ズック",
+        "start": "ず",
+        "end": "く"
+    },
+    {
+        "no": 72,
+        "group": "shoes",
+        "yomi": "ウラ",
+        "word": "シューズ",
+        "start": "し",
+        "end": "ず"
+    },
+    {
+        "no": 73,
+        "group": "shoes",
+        "yomi": "ウラ",
+        "word": "かわぐつ",
+        "start": "か",
+        "end": "つ"
+    },
+    {
+        "no": 74,
+        "group": "shoes",
+        "yomi": "ウラ",
+        "word": "ブーツ",
+        "start": "ぶ",
+        "end": "つ"
+    },
+    {
+        "no": 75,
+        "group": "cat",
+        "yomi": "フツウ",
+        "word": "ねこ",
+        "start": "ね",
+        "end": "こ"
+    },
+    {
+        "no": 76,
+        "group": "cat",
+        "yomi": "フツウ",
+        "word": "キャット",
+        "start": "き",
+        "end": "と"
+    },
+    {
+        "no": 77,
+        "group": "cat",
+        "yomi": "ウラ",
+        "word": "とらねこ",
+        "start": "と",
+        "end": "こ"
+    },
+    {
+        "no": 78,
+        "group": "cat",
+        "yomi": "ウラ",
+        "word": "にゃんこ",
+        "start": "に",
+        "end": "こ"
+    },
+    {
+        "no": 79,
+        "group": "cat",
+        "yomi": "プリコネ",
+        "word": "タマキのおともだち",
+        "start": "た",
+        "end": "ち"
+    },
+    {
+        "no": 80,
+        "group": "goldfish",
+        "yomi": "フツウ",
+        "word": "きんぎょ",
+        "start": "き",
+        "end": "よ"
+    },
+    {
+        "no": 81,
+        "group": "goldfish",
+        "yomi": "フツウ",
+        "word": "おさかな",
+        "start": "お",
+        "end": "な"
+    },
+    {
+        "no": 82,
+        "group": "goldfish",
+        "yomi": "フツウ",
+        "word": "さかな",
+        "start": "さ",
+        "end": "な"
+    },
+    {
+        "no": 83,
+        "group": "goldfish",
+        "yomi": "ウラ",
+        "word": "らんちゅう",
+        "start": "ら",
+        "end": "う"
+    },
+    {
+        "no": 84,
+        "group": "rat",
+        "yomi": "フツウ",
+        "word": "ねずみ",
+        "start": "ね",
+        "end": "み"
+    },
+    {
+        "no": 85,
+        "group": "rat",
+        "yomi": "フツウ",
+        "word": "マウス",
+        "start": "ま",
+        "end": "す"
+    },
+    {
+        "no": 86,
+        "group": "rat",
+        "yomi": "ウラ",
+        "word": "ちゅーちゅー",
+        "start": "ち",
+        "end": "ゆ"
+    },
+    {
+        "no": 87,
+        "group": "rat",
+        "yomi": "ウラ",
+        "word": "ラット",
+        "start": "ら",
+        "end": "と"
+    },
+    {
+        "no": 88,
+        "group": "egg",
+        "yomi": "フツウ",
+        "word": "たまご",
+        "start": "た",
+        "end": "ご"
+    },
+    {
+        "no": 89,
+        "group": "egg",
+        "yomi": "ウラ",
+        "word": "エッグ",
+        "start": "え",
+        "end": "ぐ"
+    },
+    {
+        "no": 90,
+        "group": "egg",
+        "yomi": "ウラ",
+        "word": "こども",
+        "start": "こ",
+        "end": "も"
+    },
+    {
+        "no": 91,
+        "group": "egg",
+        "yomi": "ウラ",
+        "word": "とりのす",
+        "start": "と",
+        "end": "す"
+    },
+    {
+        "no": 92,
+        "group": "ship",
+        "yomi": "フツウ",
+        "word": "ふね",
+        "start": "ふ",
+        "end": "ね"
+    },
+    {
+        "no": 93,
+        "group": "ship",
+        "yomi": "ウラ",
+        "word": "クルージング",
+        "start": "く",
+        "end": "ぐ"
+    },
+    {
+        "no": 94,
+        "group": "ship",
+        "yomi": "ウラ",
+        "word": "はんせん",
+        "start": "は",
+        "end": "ん"
+    },
+    {
+        "no": 95,
+        "group": "ship",
+        "yomi": "ウラ",
+        "word": "シップ",
+        "start": "し",
+        "end": "ぷ"
+    },
+    {
+        "no": 96,
+        "group": "milk",
+        "yomi": "フツウ",
+        "word": "ぎゅうにゅう",
+        "start": "ぎ",
+        "end": "う"
+    },
+    {
+        "no": 97,
+        "group": "milk",
+        "yomi": "フツウ",
+        "word": "ミルク",
+        "start": "み",
+        "end": "く"
+    },
+    {
+        "no": 98,
+        "group": "milk",
+        "yomi": "ウラ",
+        "word": "おちち",
+        "start": "お",
+        "end": "ち"
+    },
+    {
+        "no": 99,
+        "group": "milk",
+        "yomi": "プリコネ",
+        "word": "エリザベス",
+        "start": "え",
+        "end": "す"
+    },
+    {
+        "no": 100,
+        "group": "chocolate",
+        "yomi": "フツウ",
+        "word": "チョコレート",
+        "start": "ち",
+        "end": "と"
+    },
+    {
+        "no": 101,
+        "group": "chocolate",
+        "yomi": "フツウ",
+        "word": "おかし",
+        "start": "お",
+        "end": "し"
+    },
+    {
+        "no": 102,
+        "group": "chocolate",
+        "yomi": "ウラ",
+        "word": "あまいもの",
+        "start": "あ",
+        "end": "の"
+    },
+    {
+        "no": 103,
+        "group": "chocolate",
+        "yomi": "ウラ",
+        "word": "カカオ",
+        "start": "か",
+        "end": "お"
+    },
+    {
+        "no": 104,
+        "group": "chocolate",
+        "yomi": "プリコネ",
+        "word": "ドラちゃんのこうぶつ",
+        "start": "ど",
+        "end": "つ"
+    },
+    {
+        "no": 105,
+        "group": "acorn",
+        "yomi": "フツウ",
+        "word": "どんぐり",
+        "start": "ど",
+        "end": "り"
+    },
+    {
+        "no": 106,
+        "group": "acorn",
+        "yomi": "フツウ",
+        "word": "きのみ",
+        "start": "き",
+        "end": "み"
+    },
+    {
+        "no": 107,
+        "group": "acorn",
+        "yomi": "ウラ",
+        "word": "ナッツ",
+        "start": "な",
+        "end": "つ"
+    },
+    {
+        "no": 108,
+        "group": "acorn",
+        "yomi": "プリコネ",
+        "word": "リンのおやつ",
+        "start": "り",
+        "end": "つ"
+    },
+    {
+        "no": 109,
+        "group": "strawberry",
+        "yomi": "フツウ",
+        "word": "いちご",
+        "start": "い",
+        "end": "ご"
+    },
+    {
+        "no": 110,
+        "group": "strawberry",
+        "yomi": "フツウ",
+        "word": "ストロベリー",
+        "start": "す",
+        "end": "り"
+    },
+    {
+        "no": 111,
+        "group": "strawberry",
+        "yomi": "ウラ",
+        "word": "ジャム",
+        "start": "じ",
+        "end": "む"
+    },
+    {
+        "no": 112,
+        "group": "tiger",
+        "yomi": "フツウ",
+        "word": "とら",
+        "start": "と",
+        "end": "ら"
+    },
+    {
+        "no": 113,
+        "group": "tiger",
+        "yomi": "フツウ",
+        "word": "タイガー",
+        "start": "た",
+        "end": "が"
+    },
+    {
+        "no": 114,
+        "group": "tiger",
+        "yomi": "ウラ",
+        "word": "ねこ",
+        "start": "ね",
+        "end": "こ"
+    },
+    {
+        "no": 115,
+        "group": "tiger",
+        "yomi": "ウラ",
+        "word": "けもの",
+        "start": "け",
+        "end": "の"
+    },
+    {
+        "no": 116,
+        "group": "tiger",
+        "yomi": "プリコネ",
+        "word": "マツリのあこがれ",
+        "start": "ま",
+        "end": "れ"
+    },
+    {
+        "no": 117,
+        "group": "tiger",
+        "yomi": "プリコネ",
+        "word": "むてきのヒーロートラタイガー",
+        "start": "む",
+        "end": "が"
+    },
+    {
+        "no": 118,
+        "group": "stuffed-animal",
+        "yomi": "フツウ",
+        "word": "ぬいぐるみ",
+        "start": "ぬ",
+        "end": "み"
+    },
+    {
+        "no": 119,
+        "group": "stuffed-animal",
+        "yomi": "フツウ",
+        "word": "うさぎ",
+        "start": "う",
+        "end": "ぎ"
+    },
+    {
+        "no": 120,
+        "group": "stuffed-animal",
+        "yomi": "フツウ",
+        "word": "にんぎょう",
+        "start": "に",
+        "end": "う"
+    },
+    {
+        "no": 121,
+        "group": "stuffed-animal",
+        "yomi": "ウラ",
+        "word": "ラビット",
+        "start": "ら",
+        "end": "と"
+    },
+    {
+        "no": 122,
+        "group": "stuffed-animal",
+        "yomi": "プリコネ",
+        "word": "アーサー",
+        "start": "あ",
+        "end": "さ"
+    },
+    {
+        "no": 123,
+        "group": "bomb",
+        "yomi": "フツウ",
+        "word": "ばくだん",
+        "start": "ば",
+        "end": "ん"
+    },
+    {
+        "no": 124,
+        "group": "bomb",
+        "yomi": "フツウ",
+        "word": "ボム",
+        "start": "ぼ",
+        "end": "む"
+    },
+    {
+        "no": 125,
+        "group": "bomb",
+        "yomi": "ウラ",
+        "word": "きけんぶつ",
+        "start": "き",
+        "end": "つ"
+    },
+    {
+        "no": 126,
+        "group": "bomb",
+        "yomi": "ウラ",
+        "word": "とびどうぐ",
+        "start": "と",
+        "end": "ぐ"
+    },
+    {
+        "no": 127,
+        "group": "bomb",
+        "yomi": "プリコネ",
+        "word": "ミソギのいたずらグッズ",
+        "start": "み",
+        "end": "ず"
+    },
+    {
+        "no": 128,
+        "group": "watermelon",
+        "yomi": "フツウ",
+        "word": "すいか",
+        "start": "す",
+        "end": "か"
+    },
+    {
+        "no": 129,
+        "group": "watermelon",
+        "yomi": "ウラ",
+        "word": "こだますいか",
+        "start": "こ",
+        "end": "か"
+    },
+    {
+        "no": 130,
+        "group": "watermelon",
+        "yomi": "ウラ",
+        "word": "なつのふうぶつし",
+        "start": "な",
+        "end": "し"
+    },
+    {
+        "no": 131,
+        "group": "horse",
+        "yomi": "フツウ",
+        "word": "うま",
+        "start": "う",
+        "end": "ま"
+    },
+    {
+        "no": 132,
+        "group": "horse",
+        "yomi": "フツウ",
+        "word": "ろば",
+        "start": "ろ",
+        "end": "ば"
+    },
+    {
+        "no": 133,
+        "group": "horse",
+        "yomi": "ウラ",
+        "word": "ホース",
+        "start": "ほ",
+        "end": "す"
+    },
+    {
+        "no": 134,
+        "group": "horse",
+        "yomi": "ウラ",
+        "word": "ぱかぱか",
+        "start": "ぱ",
+        "end": "か"
+    },
+    {
+        "no": 135,
+        "group": "horse",
+        "yomi": "ウラ",
+        "word": "サラブレッド",
+        "start": "さ",
+        "end": "ど"
+    },
+    {
+        "no": 136,
+        "group": "horse",
+        "yomi": "プリコネ",
+        "word": "ムーバ",
+        "start": "む",
+        "end": "ば"
+    },
+    {
+        "no": 137,
+        "group": "chair",
+        "yomi": "フツウ",
+        "word": "いす",
+        "start": "い",
+        "end": "す"
+    },
+    {
+        "no": 138,
+        "group": "chair",
+        "yomi": "ウラ",
+        "word": "かぐ",
+        "start": "か",
+        "end": "ぐ"
+    },
+    {
+        "no": 139,
+        "group": "chair",
+        "yomi": "ウラ",
+        "word": "チェア",
+        "start": "ち",
+        "end": "あ"
+    },
+    {
+        "no": 140,
+        "group": "chair",
+        "yomi": "プリコネ",
+        "word": "ギルドハウスアイテム",
+        "start": "ぎ",
+        "end": "む"
+    },
+    {
+        "no": 141,
+        "group": "sea",
+        "yomi": "フツウ",
+        "word": "うみ",
+        "start": "う",
+        "end": "み"
+    },
+    {
+        "no": 142,
+        "group": "sea",
+        "yomi": "フツウ",
+        "word": "かいがん",
+        "start": "か",
+        "end": "ん"
+    },
+    {
+        "no": 143,
+        "group": "sea",
+        "yomi": "フツウ",
+        "word": "ビーチ",
+        "start": "び",
+        "end": "ち"
+    },
+    {
+        "no": 144,
+        "group": "sea",
+        "yomi": "ウラ",
+        "word": "しおさい",
+        "start": "し",
+        "end": "い"
+    },
+    {
+        "no": 145,
+        "group": "sea",
+        "yomi": "ウラ",
+        "word": "すなはま",
+        "start": "す",
+        "end": "ま"
+    },
+    {
+        "no": 146,
+        "group": "sea",
+        "yomi": "プリコネ",
+        "word": "マルジェンかいがん",
+        "start": "ま",
+        "end": "ん"
+    },
+    {
+        "no": 147,
+        "group": "hermit-crab",
+        "yomi": "フツウ",
+        "word": "やどかり",
+        "start": "や",
+        "end": "り"
+    },
+    {
+        "no": 148,
+        "group": "hermit-crab",
+        "yomi": "ウラ",
+        "word": "かいがら",
+        "start": "か",
+        "end": "ら"
+    },
+    {
+        "no": 149,
+        "group": "hermit-crab",
+        "yomi": "ウラ",
+        "word": "こうかくるい",
+        "start": "こ",
+        "end": "い"
+    },
+    {
+        "no": 150,
+        "group": "hermit-crab",
+        "yomi": "プリコネ",
+        "word": "ハーミットナイト",
+        "start": "は",
+        "end": "と"
+    },
+    {
+        "no": 151,
+        "group": "flute",
+        "yomi": "フツウ",
+        "word": "ふえ",
+        "start": "ふ",
+        "end": "え"
+    },
+    {
+        "no": 152,
+        "group": "flute",
+        "yomi": "フツウ",
+        "word": "リコーダー",
+        "start": "り",
+        "end": "だ"
+    },
+    {
+        "no": 153,
+        "group": "flute",
+        "yomi": "ウラ",
+        "word": "かんがっき",
+        "start": "か",
+        "end": "き"
+    },
+    {
+        "no": 154,
+        "group": "flute",
+        "yomi": "ウラ",
+        "word": "たてぶえ",
+        "start": "た",
+        "end": "え"
+    },
+    {
+        "no": 155,
+        "group": "book",
+        "yomi": "フツウ",
+        "word": "ほん",
+        "start": "ほ",
+        "end": "ん"
+    },
+    {
+        "no": 156,
+        "group": "book",
+        "yomi": "フツウ",
+        "word": "ノート",
+        "start": "の",
+        "end": "と"
+    },
+    {
+        "no": 157,
+        "group": "book",
+        "yomi": "ウラ",
+        "word": "しょうせつ",
+        "start": "し",
+        "end": "つ"
+    },
+    {
+        "no": 158,
+        "group": "book",
+        "yomi": "ウラ",
+        "word": "ブック",
+        "start": "ぶ",
+        "end": "く"
+    },
+    {
+        "no": 159,
+        "group": "book",
+        "yomi": "プリコネ",
+        "word": "キャルのまどうしょ",
+        "start": "き",
+        "end": "よ"
+    },
+    {
+        "no": 160,
+        "group": "fish",
+        "yomi": "フツウ",
+        "word": "さかな",
+        "start": "さ",
+        "end": "な"
+    },
+    {
+        "no": 161,
+        "group": "fish",
+        "yomi": "フツウ",
+        "word": "おさかな",
+        "start": "お",
+        "end": "な"
+    },
+    {
+        "no": 162,
+        "group": "fish",
+        "yomi": "ウラ",
+        "word": "カツオ",
+        "start": "か",
+        "end": "お"
+    },
+    {
+        "no": 163,
+        "group": "fish",
+        "yomi": "ウラ",
+        "word": "マグロ",
+        "start": "ま",
+        "end": "ろ"
+    },
+    {
+        "no": 164,
+        "group": "fish",
+        "yomi": "ウラ",
+        "word": "フィッシュ",
+        "start": "ふ",
+        "end": "ゆ"
+    },
+    {
+        "no": 165,
+        "group": "fish",
+        "yomi": "ウラ",
+        "word": "うお",
+        "start": "う",
+        "end": "お"
+    },
+    {
+        "no": 166,
+        "group": "tree",
+        "yomi": "フツウ",
+        "word": "ツリー",
+        "start": "つ",
+        "end": "り"
+    },
+    {
+        "no": 167,
+        "group": "tree",
+        "yomi": "フツウ",
+        "word": "クリスマス",
+        "start": "く",
+        "end": "す"
+    },
+    {
+        "no": 168,
+        "group": "tree",
+        "yomi": "ウラ",
+        "word": "もみのき",
+        "start": "も",
+        "end": "き"
+    },
+    {
+        "no": 169,
+        "group": "tree",
+        "yomi": "ウラ",
+        "word": "キャロル",
+        "start": "き",
+        "end": "る"
+    },
+    {
+        "no": 170,
+        "group": "tree",
+        "yomi": "プリコネ",
+        "word": "ぼうきゃくのキャロル",
+        "start": "ぼ",
+        "end": "る"
+    },
+    {
+        "no": 171,
+        "group": "candy",
+        "yomi": "フツウ",
+        "word": "あめ",
+        "start": "あ",
+        "end": "め"
+    },
+    {
+        "no": 172,
+        "group": "candy",
+        "yomi": "フツウ",
+        "word": "キャンディ",
+        "start": "き",
+        "end": "い"
+    },
+    {
+        "no": 173,
+        "group": "candy",
+        "yomi": "ウラ",
+        "word": "ロリポップ",
+        "start": "ろ",
+        "end": "ぷ"
+    },
+    {
+        "no": 174,
+        "group": "candy",
+        "yomi": "プリコネ",
+        "word": "クロエのおやつ",
+        "start": "く",
+        "end": "つ"
+    },
+    {
+        "no": 175,
+        "group": "hammer",
+        "yomi": "フツウ",
+        "word": "ハンマー",
+        "start": "は",
+        "end": "ま"
+    },
+    {
+        "no": 176,
+        "group": "hammer",
+        "yomi": "フツウ",
+        "word": "ピコピコハンマー",
+        "start": "ぴ",
+        "end": "ま"
+    },
+    {
+        "no": 177,
+        "group": "hammer",
+        "yomi": "ウラ",
+        "word": "かなづち",
+        "start": "か",
+        "end": "ち"
+    },
+    {
+        "no": 178,
+        "group": "hammer",
+        "yomi": "ウラ",
+        "word": "こづち",
+        "start": "こ",
+        "end": "ち"
+    },
+    {
+        "no": 179,
+        "group": "hammer",
+        "yomi": "プリコネ",
+        "word": "イノリのえもの",
+        "start": "い",
+        "end": "の"
+    },
+    {
+        "no": 180,
+        "group": "star",
+        "yomi": "フツウ",
+        "word": "ほし",
+        "start": "ほ",
+        "end": "し"
+    },
+    {
+        "no": 181,
+        "group": "star",
+        "yomi": "フツウ",
+        "word": "ごかくけい",
+        "start": "ご",
+        "end": "い"
+    },
+    {
+        "no": 182,
+        "group": "star",
+        "yomi": "フツウ",
+        "word": "スター",
+        "start": "す",
+        "end": "た"
+    },
+    {
+        "no": 183,
+        "group": "star",
+        "yomi": "ウラ",
+        "word": "ずけい",
+        "start": "ず",
+        "end": "い"
+    },
+    {
+        "no": 184,
+        "group": "star",
+        "yomi": "ウラ",
+        "word": "ひとで",
+        "start": "ひ",
+        "end": "で"
+    },
+    {
+        "no": 185,
+        "group": "star",
+        "yomi": "ウラ",
+        "word": "きらきら",
+        "start": "き",
+        "end": "ら"
+    },
+    {
+        "no": 186,
+        "group": "star",
+        "yomi": "プリコネ",
+        "word": "ランドソルのかたち",
+        "start": "ら",
+        "end": "ち"
+    },
+    {
+        "no": 187,
+        "group": "hat",
+        "yomi": "フツウ",
+        "word": "ぼうし",
+        "start": "ぼ",
+        "end": "し"
+    },
+    {
+        "no": 188,
+        "group": "hat",
+        "yomi": "フツウ",
+        "word": "ハット",
+        "start": "は",
+        "end": "と"
+    },
+    {
+        "no": 189,
+        "group": "hat",
+        "yomi": "ウラ",
+        "word": "やまたかぼう",
+        "start": "や",
+        "end": "う"
+    },
+    {
+        "no": 190,
+        "group": "hat",
+        "yomi": "ウラ",
+        "word": "シルクハット",
+        "start": "し",
+        "end": "と"
+    },
+    {
+        "no": 191,
+        "group": "mug",
+        "yomi": "フツウ",
+        "word": "カップ",
+        "start": "か",
+        "end": "ぷ"
+    },
+    {
+        "no": 192,
+        "group": "mug",
+        "yomi": "フツウ",
+        "word": "コーヒー",
+        "start": "こ",
+        "end": "ひ"
+    },
+    {
+        "no": 193,
+        "group": "mug",
+        "yomi": "ウラ",
+        "word": "マグ",
+        "start": "ま",
+        "end": "ぐ"
+    },
+    {
+        "no": 194,
+        "group": "dog",
+        "yomi": "フツウ",
+        "word": "いぬ",
+        "start": "い",
+        "end": "ぬ"
+    },
+    {
+        "no": 195,
+        "group": "dog",
+        "yomi": "フツウ",
+        "word": "ドッグ",
+        "start": "ど",
+        "end": "ぐ"
+    },
+    {
+        "no": 196,
+        "group": "dog",
+        "yomi": "ウラ",
+        "word": "おおかみ",
+        "start": "お",
+        "end": "み"
+    },
+    {
+        "no": 197,
+        "group": "dog",
+        "yomi": "ウラ",
+        "word": "ウルフ",
+        "start": "う",
+        "end": "ふ"
+    },
+    {
+        "no": 198,
+        "group": "dog",
+        "yomi": "ウラ",
+        "word": "わんこ",
+        "start": "わ",
+        "end": "こ"
+    },
+    {
+        "no": 199,
+        "group": "flag",
+        "yomi": "フツウ",
+        "word": "はた",
+        "start": "は",
+        "end": "た"
+    },
+    {
+        "no": 200,
+        "group": "flag",
+        "yomi": "フツウ",
+        "word": "フラッグ",
+        "start": "ふ",
+        "end": "ぐ"
+    },
+    {
+        "no": 201,
+        "group": "cake",
+        "yomi": "フツウ",
+        "word": "ケーキ",
+        "start": "け",
+        "end": "き"
+    },
+    {
+        "no": 202,
+        "group": "cake",
+        "yomi": "フツウ",
+        "word": "おかし",
+        "start": "お",
+        "end": "し"
+    },
+    {
+        "no": 203,
+        "group": "cake",
+        "yomi": "ウラ",
+        "word": "ぎふと",
+        "start": "ぎ",
+        "end": "と"
+    },
+    {
+        "no": 204,
+        "group": "cake",
+        "yomi": "プリコネ",
+        "word": "きずなポイント",
+        "start": "き",
+        "end": "と"
+    },
+    {
+        "no": 205,
+        "group": "cake",
+        "yomi": "プリコネ",
+        "word": "ミックスベリーケーキ",
+        "start": "み",
+        "end": "き"
+    },
+    {
+        "no": 206,
+        "group": "microphone",
+        "yomi": "フツウ",
+        "word": "マイク",
+        "start": "ま",
+        "end": "く"
+    },
+    {
+        "no": 207,
+        "group": "microphone",
+        "yomi": "フツウ",
+        "word": "うた",
+        "start": "う",
+        "end": "た"
+    },
+    {
+        "no": 208,
+        "group": "microphone",
+        "yomi": "フツウ",
+        "word": "ライブ",
+        "start": "ら",
+        "end": "ぶ"
+    },
+    {
+        "no": 209,
+        "group": "microphone",
+        "yomi": "ウラ",
+        "word": "アイドルのひっすアイテム",
+        "start": "あ",
+        "end": "む"
+    },
+    {
+        "no": 210,
+        "group": "microphone",
+        "yomi": "プリコネ",
+        "word": "ブリリアントマイク",
+        "start": "ぶ",
+        "end": "く"
+    },
+    {
+        "no": 211,
+        "group": "lipstick",
+        "yomi": "フツウ",
+        "word": "くちべに",
+        "start": "く",
+        "end": "に"
+    },
+    {
+        "no": 212,
+        "group": "lipstick",
+        "yomi": "フツウ",
+        "word": "リップ",
+        "start": "り",
+        "end": "ぷ"
+    },
+    {
+        "no": 213,
+        "group": "lipstick",
+        "yomi": "ウラ",
+        "word": "ルージュ",
+        "start": "る",
+        "end": "ゆ"
+    },
+    {
+        "no": 214,
+        "group": "mochi",
+        "yomi": "フツウ",
+        "word": "もち",
+        "start": "も",
+        "end": "ち"
+    },
+    {
+        "no": 215,
+        "group": "mochi",
+        "yomi": "フツウ",
+        "word": "おもち",
+        "start": "お",
+        "end": "ち"
+    },
+    {
+        "no": 216,
+        "group": "mochi",
+        "yomi": "ウラ",
+        "word": "かがみもち",
+        "start": "か",
+        "end": "ち"
+    },
+    {
+        "no": 217,
+        "group": "mochi",
+        "yomi": "ウラ",
+        "word": "たんすいかぶつ",
+        "start": "た",
+        "end": "つ"
+    },
+    {
+        "no": 218,
+        "group": "mochi",
+        "yomi": "ウラ",
+        "word": "ライスケーキ",
+        "start": "ら",
+        "end": "き"
+    },
+    {
+        "no": 219,
+        "group": "fairy",
+        "yomi": "フツウ",
+        "word": "ようせい",
+        "start": "よ",
+        "end": "い"
+    },
+    {
+        "no": 220,
+        "group": "fairy",
+        "yomi": "ウラ",
+        "word": "フェアリー",
+        "start": "ふ",
+        "end": "り"
+    },
+    {
+        "no": 221,
+        "group": "fairy",
+        "yomi": "プリコネ",
+        "word": "ネビア",
+        "start": "ね",
+        "end": "あ"
+    },
+    {
+        "no": 222,
+        "group": "umbrella",
+        "yomi": "フツウ",
+        "word": "かさ",
+        "start": "か",
+        "end": "さ"
+    },
+    {
+        "no": 223,
+        "group": "umbrella",
+        "yomi": "フツウ",
+        "word": "アンブレラ",
+        "start": "あ",
+        "end": "ら"
+    },
+    {
+        "no": 224,
+        "group": "umbrella",
+        "yomi": "ウラ",
+        "word": "パラソル",
+        "start": "ぱ",
+        "end": "る"
+    },
+    {
+        "no": 225,
+        "group": "umbrella",
+        "yomi": "ウラ",
+        "word": "ひがさ",
+        "start": "ひ",
+        "end": "さ"
+    },
+    {
+        "no": 226,
+        "group": "umbrella",
+        "yomi": "プリコネ",
+        "word": "ペコリーヌサマー",
+        "start": "ぺ",
+        "end": "ま"
+    },
+    {
+        "no": 227,
+        "group": "dice",
+        "yomi": "フツウ",
+        "word": "さいころ",
+        "start": "さ",
+        "end": "ろ"
+    },
+    {
+        "no": 228,
+        "group": "dice",
+        "yomi": "フツウ",
+        "word": "ダイス",
+        "start": "だ",
+        "end": "す"
+    },
+    {
+        "no": 229,
+        "group": "dice",
+        "yomi": "ウラ",
+        "word": "ギャンブル",
+        "start": "ぎ",
+        "end": "る"
+    },
+    {
+        "no": 230,
+        "group": "dice",
+        "yomi": "ウラ",
+        "word": "りっぽうたい",
+        "start": "り",
+        "end": "い"
+    },
+    {
+        "no": 231,
+        "group": "dice",
+        "yomi": "ウラ",
+        "word": "すごろく",
+        "start": "す",
+        "end": "く"
+    },
+    {
+        "no": 232,
+        "group": "letter",
+        "yomi": "フツウ",
+        "word": "てがみ",
+        "start": "て",
+        "end": "み"
+    },
+    {
+        "no": 233,
+        "group": "letter",
+        "yomi": "ウラ",
+        "word": "レター",
+        "start": "れ",
+        "end": "た"
+    },
+    {
+        "no": 234,
+        "group": "letter",
+        "yomi": "ウラ",
+        "word": "メール",
+        "start": "め",
+        "end": "る"
+    },
+    {
+        "no": 235,
+        "group": "letter",
+        "yomi": "ウラ",
+        "word": "おたより",
+        "start": "お",
+        "end": "り"
+    },
+    {
+        "no": 236,
+        "group": "letter",
+        "yomi": "ウラ",
+        "word": "ラブレター",
+        "start": "ら",
+        "end": "た"
+    },
+    {
+        "no": 237,
+        "group": "grapes",
+        "yomi": "フツウ",
+        "word": "ブドウ",
+        "start": "ぶ",
+        "end": "う"
+    },
+    {
+        "no": 238,
+        "group": "grapes",
+        "yomi": "フツウ",
+        "word": "グレープ",
+        "start": "ぐ",
+        "end": "ぷ"
+    },
+    {
+        "no": 239,
+        "group": "grapes",
+        "yomi": "ウラ",
+        "word": "きょほう",
+        "start": "き",
+        "end": "う"
+    },
+    {
+        "no": 240,
+        "group": "grapes",
+        "yomi": "ウラ",
+        "word": "デラウェア",
+        "start": "で",
+        "end": "あ"
+    },
+    {
+        "no": 241,
+        "group": "sheep",
+        "yomi": "フツウ",
+        "word": "ひつじ",
+        "start": "ひ",
+        "end": "じ"
+    },
+    {
+        "no": 242,
+        "group": "sheep",
+        "yomi": "ウラ",
+        "word": "シープ",
+        "start": "し",
+        "end": "ぷ"
+    },
+    {
+        "no": 243,
+        "group": "sheep",
+        "yomi": "ウラ",
+        "word": "メリーさんのひつじ",
+        "start": "め",
+        "end": "じ"
+    },
+    {
+        "no": 244,
+        "group": "tofu",
+        "yomi": "フツウ",
+        "word": "とうふ",
+        "start": "と",
+        "end": "ふ"
+    },
+    {
+        "no": 245,
+        "group": "tofu",
+        "yomi": "ウラ",
+        "word": "もめんどうふ",
+        "start": "も",
+        "end": "ふ"
+    },
+    {
+        "no": 246,
+        "group": "tofu",
+        "yomi": "ウラ",
+        "word": "きぬごしどうふ",
+        "start": "き",
+        "end": "ふ"
+    },
+    {
+        "no": 247,
+        "group": "tofu",
+        "yomi": "ウラ",
+        "word": "ひややっこ",
+        "start": "ひ",
+        "end": "こ"
+    },
+    {
+        "no": 248,
+        "group": "duck",
+        "yomi": "フツウ",
+        "word": "あひる",
+        "start": "あ",
+        "end": "る"
+    },
+    {
+        "no": 249,
+        "group": "duck",
+        "yomi": "フツウ",
+        "word": "がちょう",
+        "start": "が",
+        "end": "う"
+    },
+    {
+        "no": 250,
+        "group": "duck",
+        "yomi": "ウラ",
+        "word": "グース",
+        "start": "ぐ",
+        "end": "す"
+    },
+    {
+        "no": 251,
+        "group": "duck",
+        "yomi": "ウラ",
+        "word": "ダック",
+        "start": "だ",
+        "end": "く"
+    },
+    {
+        "no": 252,
+        "group": "duck",
+        "yomi": "ウラ",
+        "word": "とり",
+        "start": "と",
+        "end": "り"
+    },
+    {
+        "no": 253,
+        "group": "dragonfly",
+        "yomi": "フツウ",
+        "word": "とんぼ",
+        "start": "と",
+        "end": "ぼ"
+    },
+    {
+        "no": 254,
+        "group": "dragonfly",
+        "yomi": "ウラ",
+        "word": "やんま",
+        "start": "や",
+        "end": "ま"
+    },
+    {
+        "no": 255,
+        "group": "dragonfly",
+        "yomi": "ウラ",
+        "word": "オニヤンマ",
+        "start": "お",
+        "end": "ま"
+    },
+    {
+        "no": 256,
+        "group": "dragonfly",
+        "yomi": "ウラ",
+        "word": "ドラゴンフライ",
+        "start": "ど",
+        "end": "い"
+    },
+    {
+        "no": 257,
+        "group": "leaf",
+        "yomi": "フツウ",
+        "word": "はっぱ",
+        "start": "は",
+        "end": "ぱ"
+    },
+    {
+        "no": 258,
+        "group": "leaf",
+        "yomi": "フツウ",
+        "word": "このは",
+        "start": "こ",
+        "end": "は"
+    },
+    {
+        "no": 259,
+        "group": "leaf",
+        "yomi": "ウラ",
+        "word": "リーフ",
+        "start": "り",
+        "end": "ふ"
+    },
+    {
+        "no": 260,
+        "group": "leaf",
+        "yomi": "ウラ",
+        "word": "くさ",
+        "start": "く",
+        "end": "さ"
+    },
+    {
+        "no": 261,
+        "group": "leaf",
+        "yomi": "プリコネ",
+        "word": "アオイのともだち",
+        "start": "あ",
+        "end": "ち"
+    },
+    {
+        "no": 262,
+        "group": "ring",
+        "yomi": "フツウ",
+        "word": "ゆびわ",
+        "start": "ゆ",
+        "end": "わ"
+    },
+    {
+        "no": 263,
+        "group": "ring",
+        "yomi": "フツウ",
+        "word": "リング",
+        "start": "り",
+        "end": "ぐ"
+    },
+    {
+        "no": 264,
+        "group": "ring",
+        "yomi": "フツウ",
+        "word": "わっか",
+        "start": "わ",
+        "end": "か"
+    },
+    {
+        "no": 265,
+        "group": "rope",
+        "yomi": "フツウ",
+        "word": "なわ",
+        "start": "な",
+        "end": "わ"
+    },
+    {
+        "no": 266,
+        "group": "rope",
+        "yomi": "フツウ",
+        "word": "ロープ",
+        "start": "ろ",
+        "end": "ぷ"
+    },
+    {
+        "no": 267,
+        "group": "rope",
+        "yomi": "フツウ",
+        "word": "ひも",
+        "start": "ひ",
+        "end": "も"
+    },
+    {
+        "no": 268,
+        "group": "rope",
+        "yomi": "フツウ",
+        "word": "つな",
+        "start": "つ",
+        "end": "な"
+    },
+    {
+        "no": 269,
+        "group": "rope",
+        "yomi": "プリコネ",
+        "word": "クウカのまるひアイテム",
+        "start": "く",
+        "end": "む"
+    },
+    {
+        "no": 270,
+        "group": "rope",
+        "yomi": "プリコネ",
+        "word": "エクスタシー",
+        "start": "え",
+        "end": "し"
+    },
+    {
+        "no": 271,
+        "group": "shield",
+        "yomi": "フツウ",
+        "word": "たて",
+        "start": "た",
+        "end": "て"
+    },
+    {
+        "no": 272,
+        "group": "shield",
+        "yomi": "フツウ",
+        "word": "シールド",
+        "start": "し",
+        "end": "ど"
+    },
+    {
+        "no": 273,
+        "group": "shield",
+        "yomi": "ウラ",
+        "word": "ガード",
+        "start": "が",
+        "end": "ど"
+    },
+    {
+        "no": 274,
+        "group": "shield",
+        "yomi": "ウラ",
+        "word": "ぼうぐ",
+        "start": "ぼ",
+        "end": "ぐ"
+    },
+    {
+        "no": 275,
+        "group": "shield",
+        "yomi": "ウラ",
+        "word": "バックラー",
+        "start": "ば",
+        "end": "ら"
+    },
+    {
+        "no": 276,
+        "group": "shield",
+        "yomi": "プリコネ",
+        "word": "インフェルノシールド",
+        "start": "い",
+        "end": "ど"
+    },
+    {
+        "no": 277,
+        "group": "money",
+        "yomi": "フツウ",
+        "word": "おかね",
+        "start": "お",
+        "end": "ね"
+    },
+    {
+        "no": 278,
+        "group": "money",
+        "yomi": "フツウ",
+        "word": "かね",
+        "start": "か",
+        "end": "ね"
+    },
+    {
+        "no": 279,
+        "group": "money",
+        "yomi": "ウラ",
+        "word": "マネー",
+        "start": "ま",
+        "end": "ね"
+    },
+    {
+        "no": 280,
+        "group": "money",
+        "yomi": "ウラ",
+        "word": "こぜに",
+        "start": "こ",
+        "end": "に"
+    },
+    {
+        "no": 281,
+        "group": "money",
+        "yomi": "ウラ",
+        "word": "きんか",
+        "start": "き",
+        "end": "か"
+    },
+    {
+        "no": 282,
+        "group": "money",
+        "yomi": "プリコネ",
+        "word": "ルピ",
+        "start": "る",
+        "end": "ぴ"
+    },
+    {
+        "no": 283,
+        "group": "money",
+        "yomi": "プリコネ",
+        "word": "ギルドハウスかぐこうにゅう",
+        "start": "ぎ",
+        "end": "う"
+    },
+    {
+        "no": 284,
+        "group": "caramel-cream-a-la-mode",
+        "yomi": "フツウ",
+        "word": "プリンアラモード",
+        "start": "ぷ",
+        "end": "ど"
+    },
+    {
+        "no": 285,
+        "group": "caramel-cream-a-la-mode",
+        "yomi": "フツウ",
+        "word": "デザート",
+        "start": "で",
+        "end": "と"
+    },
+    {
+        "no": 286,
+        "group": "caramel-cream-a-la-mode",
+        "yomi": "ウラ",
+        "word": "スイーツ",
+        "start": "す",
+        "end": "つ"
+    },
+    {
+        "no": 287,
+        "group": "caramel-cream-a-la-mode",
+        "yomi": "プリコネ",
+        "word": "ミヤコのおやつ",
+        "start": "み",
+        "end": "つ"
+    },
+    {
+        "no": 288,
+        "group": "necklace",
+        "yomi": "フツウ",
+        "word": "ネックレス",
+        "start": "ね",
+        "end": "す"
+    },
+    {
+        "no": 289,
+        "group": "necklace",
+        "yomi": "フツウ",
+        "word": "ペンダント",
+        "start": "ぺ",
+        "end": "と"
+    },
+    {
+        "no": 290,
+        "group": "necklace",
+        "yomi": "ウラ",
+        "word": "アクセサリー",
+        "start": "あ",
+        "end": "り"
+    },
+    {
+        "no": 291,
+        "group": "necklace",
+        "yomi": "ウラ",
+        "word": "くびかざり",
+        "start": "く",
+        "end": "り"
+    },
+    {
+        "no": 292,
+        "group": "rice-plant",
+        "yomi": "フツウ",
+        "word": "いなほ",
+        "start": "い",
+        "end": "ほ"
+    },
+    {
+        "no": 293,
+        "group": "rice-plant",
+        "yomi": "ウラ",
+        "word": "たんぼ",
+        "start": "た",
+        "end": "ぼ"
+    },
+    {
+        "no": 294,
+        "group": "rice-plant",
+        "yomi": "ウラ",
+        "word": "こめ",
+        "start": "こ",
+        "end": "め"
+    },
+    {
+        "no": 295,
+        "group": "rice-plant",
+        "yomi": "ウラ",
+        "word": "おこめ",
+        "start": "お",
+        "end": "め"
+    },
+    {
+        "no": 296,
+        "group": "rice-plant",
+        "yomi": "ウラ",
+        "word": "むぎ",
+        "start": "む",
+        "end": "ぎ"
+    },
+    {
+        "no": 297,
+        "group": "soy-sauce",
+        "yomi": "フツウ",
+        "word": "しょうゆ",
+        "start": "し",
+        "end": "ゆ"
+    },
+    {
+        "no": 298,
+        "group": "soy-sauce",
+        "yomi": "ウラ",
+        "word": "ソイソース",
+        "start": "そ",
+        "end": "す"
+    },
+    {
+        "no": 299,
+        "group": "soy-sauce",
+        "yomi": "ウラ",
+        "word": "ちょうみりょう",
+        "start": "ち",
+        "end": "う"
+    },
+    {
+        "no": 300,
+        "group": "conveyor-belt",
+        "yomi": "フツウ",
+        "word": "ベルトコンベア",
+        "start": "べ",
+        "end": "あ"
+    },
+    {
+        "no": 301,
+        "group": "conveyor-belt",
+        "yomi": "ウラ",
+        "word": "こうじょう",
+        "start": "こ",
+        "end": "う"
+    },
+    {
+        "no": 302,
+        "group": "conveyor-belt",
+        "yomi": "ウラ",
+        "word": "ファクトリー",
+        "start": "ふ",
+        "end": "り"
+    },
+    {
+        "no": 303,
+        "group": "conveyor-belt",
+        "yomi": "プリコネ",
+        "word": "たいやきこうじょう",
+        "start": "た",
+        "end": "う"
+    },
+    {
+        "no": 304,
+        "group": "chandelier",
+        "yomi": "フツウ",
+        "word": "シャンデリア",
+        "start": "し",
+        "end": "あ"
+    },
+    {
+        "no": 305,
+        "group": "chandelier",
+        "yomi": "ウラ",
+        "word": "あかり",
+        "start": "あ",
+        "end": "り"
+    },
+    {
+        "no": 306,
+        "group": "salt",
+        "yomi": "フツウ",
+        "word": "しお",
+        "start": "し",
+        "end": "お"
+    },
+    {
+        "no": 307,
+        "group": "salt",
+        "yomi": "ウラ",
+        "word": "ソルト",
+        "start": "そ",
+        "end": "と"
+    },
+    {
+        "no": 308,
+        "group": "salt",
+        "yomi": "ウラ",
+        "word": "ちょうみりょう",
+        "start": "ち",
+        "end": "う"
+    },
+    {
+        "no": 309,
+        "group": "whirlpool",
+        "yomi": "フツウ",
+        "word": "うずしお",
+        "start": "う",
+        "end": "お"
+    },
+    {
+        "no": 310,
+        "group": "whirlpool",
+        "yomi": "ウラ",
+        "word": "ぐるぐる",
+        "start": "ぐ",
+        "end": "る"
+    },
+    {
+        "no": 311,
+        "group": "fishing-rod",
+        "yomi": "フツウ",
+        "word": "つりざお",
+        "start": "つ",
+        "end": "お"
+    },
+    {
+        "no": 312,
+        "group": "fishing-rod",
+        "yomi": "ウラ",
+        "word": "ロッド",
+        "start": "ろ",
+        "end": "ど"
+    },
+    {
+        "no": 313,
+        "group": "fishing-rod",
+        "yomi": "プリコネ",
+        "word": "ルカのしゅみごと",
+        "start": "る",
+        "end": "と"
+    },
+    {
+        "no": 314,
+        "group": "stockpot",
+        "yomi": "フツウ",
+        "word": "なべ",
+        "start": "な",
+        "end": "べ"
+    },
+    {
+        "no": 315,
+        "group": "stockpot",
+        "yomi": "フツウ",
+        "word": "おなべ",
+        "start": "お",
+        "end": "べ"
+    },
+    {
+        "no": 316,
+        "group": "stockpot",
+        "yomi": "ウラ",
+        "word": "ずんどう",
+        "start": "ず",
+        "end": "う"
+    },
+    {
+        "no": 317,
+        "group": "stockpot",
+        "yomi": "ウラ",
+        "word": "カレー",
+        "start": "か",
+        "end": "れ"
+    },
+    {
+        "no": 318,
+        "group": "stockpot",
+        "yomi": "ウラ",
+        "word": "シチュー",
+        "start": "し",
+        "end": "ゆ"
+    },
+    {
+        "no": 319,
+        "group": "seesaw",
+        "yomi": "フツウ",
+        "word": "シーソー",
+        "start": "し",
+        "end": "そ"
+    },
+    {
+        "no": 320,
+        "group": "seesaw",
+        "yomi": "ウラ",
+        "word": "ゆうぐ",
+        "start": "ゆ",
+        "end": "ぐ"
+    },
+    {
+        "no": 321,
+        "group": "seesaw",
+        "yomi": "ウラ",
+        "word": "ぎったんばっこん",
+        "start": "ぎ",
+        "end": "ん"
+    },
+    {
+        "no": 322,
+        "group": "seesaw",
+        "yomi": "ウラ",
+        "word": "こうえんあそび",
+        "start": "こ",
+        "end": "び"
+    },
+    {
+        "no": 323,
+        "group": "brush",
+        "yomi": "フツウ",
+        "word": "ふで",
+        "start": "ふ",
+        "end": "で"
+    },
+    {
+        "no": 324,
+        "group": "brush",
+        "yomi": "ウラ",
+        "word": "しょどう",
+        "start": "し",
+        "end": "う"
+    },
+    {
+        "no": 325,
+        "group": "brush",
+        "yomi": "ウラ",
+        "word": "もうひつ",
+        "start": "も",
+        "end": "つ"
+    },
+    {
+        "no": 326,
+        "group": "brush",
+        "yomi": "ウラ",
+        "word": "おしゅうじ",
+        "start": "お",
+        "end": "じ"
+    },
+    {
+        "no": 327,
+        "group": "brush",
+        "yomi": "ウラ",
+        "word": "すずり",
+        "start": "す",
+        "end": "り"
+    },
+    {
+        "no": 328,
+        "group": "brush",
+        "yomi": "プリコネ",
+        "word": "とーごくぶんか",
+        "start": "と",
+        "end": "か"
+    },
+    {
+        "no": 329,
+        "group": "dumbbell",
+        "yomi": "フツウ",
+        "word": "きんトレ",
+        "start": "き",
+        "end": "れ"
+    },
+    {
+        "no": 330,
+        "group": "dumbbell",
+        "yomi": "フツウ",
+        "word": "ダンベル",
+        "start": "だ",
+        "end": "る"
+    },
+    {
+        "no": 331,
+        "group": "dumbbell",
+        "yomi": "ウラ",
+        "word": "マッスル",
+        "start": "ま",
+        "end": "る"
+    },
+    {
+        "no": 332,
+        "group": "dumbbell",
+        "yomi": "ウラ",
+        "word": "ウェイトトレーニング",
+        "start": "う",
+        "end": "ぐ"
+    },
+    {
+        "no": 333,
+        "group": "ghost",
+        "yomi": "フツウ",
+        "word": "おばけ",
+        "start": "お",
+        "end": "け"
+    },
+    {
+        "no": 334,
+        "group": "ghost",
+        "yomi": "フツウ",
+        "word": "ゆうれい",
+        "start": "ゆ",
+        "end": "い"
+    },
+    {
+        "no": 335,
+        "group": "ghost",
+        "yomi": "プリコネ",
+        "word": "ミヤコ",
+        "start": "み",
+        "end": "こ"
+    },
+    {
+        "no": 336,
+        "group": "ghost",
+        "yomi": "プリコネ",
+        "word": "むてき",
+        "start": "む",
+        "end": "き"
+    },
+    {
+        "no": 337,
+        "group": "hiyori",
+        "yomi": "フツウ",
+        "word": "ヒヨリ",
+        "start": "ひ",
+        "end": "り"
+    },
+    {
+        "no": 338,
+        "group": "hiyori",
+        "yomi": "プリコネ",
+        "word": "ほっとけないよ",
+        "start": "ほ",
+        "end": "よ"
+    },
+    {
+        "no": 339,
+        "group": "yui",
+        "yomi": "フツウ",
+        "word": "ユイ",
+        "start": "ゆ",
+        "end": "い"
+    },
+    {
+        "no": 340,
+        "group": "yui",
+        "yomi": "プリコネ",
+        "word": "ヒールオール",
+        "start": "ひ",
+        "end": "る"
+    },
+    {
+        "no": 341,
+        "group": "yui",
+        "yomi": "プリコネ",
+        "word": "マコトのおさななじみ",
+        "start": "ま",
+        "end": "み"
+    },
+    {
+        "no": 342,
+        "group": "rei",
+        "yomi": "フツウ",
+        "word": "レイ",
+        "start": "れ",
+        "end": "い"
+    },
+    {
+        "no": 343,
+        "group": "rei",
+        "yomi": "プリコネ",
+        "word": "じょうば",
+        "start": "じ",
+        "end": "ば"
+    },
+    {
+        "no": 344,
+        "group": "misogi",
+        "yomi": "フツウ",
+        "word": "ミソギ",
+        "start": "み",
+        "end": "ぎ"
+    },
+    {
+        "no": 345,
+        "group": "misogi",
+        "yomi": "プリコネ",
+        "word": "いたずらっこ",
+        "start": "い",
+        "end": "こ"
+    },
+    {
+        "no": 346,
+        "group": "matsuri",
+        "yomi": "フツウ",
+        "word": "マツリ",
+        "start": "ま",
+        "end": "り"
+    },
+    {
+        "no": 347,
+        "group": "matsuri",
+        "yomi": "プリコネ",
+        "word": "ヒーローみならい",
+        "start": "ひ",
+        "end": "い"
+    },
+    {
+        "no": 348,
+        "group": "akari",
+        "yomi": "フツウ",
+        "word": "アカリ",
+        "start": "あ",
+        "end": "り"
+    },
+    {
+        "no": 349,
+        "group": "akari",
+        "yomi": "プリコネ",
+        "word": "ヨリのいもうと",
+        "start": "よ",
+        "end": "と"
+    },
+    {
+        "no": 350,
+        "group": "akari",
+        "yomi": "プリコネ",
+        "word": "こあくま",
+        "start": "こ",
+        "end": "ま"
+    },
+    {
+        "no": 351,
+        "group": "miyako",
+        "yomi": "フツウ",
+        "word": "ミヤコ",
+        "start": "み",
+        "end": "こ"
+    },
+    {
+        "no": 352,
+        "group": "miyako",
+        "yomi": "プリコネ",
+        "word": "ゆうれい",
+        "start": "ゆ",
+        "end": "い"
+    },
+    {
+        "no": 353,
+        "group": "miyako",
+        "yomi": "プリコネ",
+        "word": "プリンだいすき",
+        "start": "ぷ",
+        "end": "き"
+    },
+    {
+        "no": 354,
+        "group": "yuki",
+        "yomi": "フツウ",
+        "word": "ユキ",
+        "start": "ゆ",
+        "end": "き"
+    },
+    {
+        "no": 355,
+        "group": "yuki",
+        "yomi": "プリコネ",
+        "word": "うつくしいボク",
+        "start": "う",
+        "end": "く"
+    },
+    {
+        "no": 356,
+        "group": "yuki",
+        "yomi": "プリコネ",
+        "word": "ナルシスト",
+        "start": "な",
+        "end": "と"
+    },
+    {
+        "no": 357,
+        "group": "anna",
+        "yomi": "フツウ",
+        "word": "アンナ",
+        "start": "あ",
+        "end": "な"
+    },
+    {
+        "no": 358,
+        "group": "anna",
+        "yomi": "プリコネ",
+        "word": "しっぷうのヘカーテ",
+        "start": "し",
+        "end": "て"
+    },
+    {
+        "no": 359,
+        "group": "anna",
+        "yomi": "プリコネ",
+        "word": "ちゅうにびょう",
+        "start": "ち",
+        "end": "う"
+    },
+    {
+        "no": 360,
+        "group": "maho",
+        "yomi": "フツウ",
+        "word": "マホ",
+        "start": "ま",
+        "end": "ほ"
+    },
+    {
+        "no": 361,
+        "group": "maho",
+        "yomi": "プリコネ",
+        "word": "おひめさま",
+        "start": "お",
+        "end": "ま"
+    },
+    {
+        "no": 362,
+        "group": "maho",
+        "yomi": "プリコネ",
+        "word": "くるりんぱ",
+        "start": "く",
+        "end": "ぱ"
+    },
+    {
+        "no": 363,
+        "group": "rino",
+        "yomi": "フツウ",
+        "word": "リノ",
+        "start": "り",
+        "end": "の"
+    },
+    {
+        "no": 364,
+        "group": "rino",
+        "yomi": "プリコネ",
+        "word": "いもうと",
+        "start": "い",
+        "end": "と"
+    },
+    {
+        "no": 365,
+        "group": "rino",
+        "yomi": "プリコネ",
+        "word": "あほのこ",
+        "start": "あ",
+        "end": "こ"
+    },
+    {
+        "no": 366,
+        "group": "hatsune",
+        "yomi": "フツウ",
+        "word": "ハツネ",
+        "start": "は",
+        "end": "ね"
+    },
+    {
+        "no": 367,
+        "group": "hatsune",
+        "yomi": "プリコネ",
+        "word": "ちょうのうりょくしょうじょ",
+        "start": "ち",
+        "end": "よ"
+    },
+    {
+        "no": 368,
+        "group": "hatsune",
+        "yomi": "プリコネ",
+        "word": "スヤスヤ",
+        "start": "す",
+        "end": "や"
+    },
+    {
+        "no": 369,
+        "group": "hatsune",
+        "yomi": "プリコネ",
+        "word": "シオリンのあね",
+        "start": "し",
+        "end": "ね"
+    },
+    {
+        "no": 370,
+        "group": "nanaka",
+        "yomi": "フツウ",
+        "word": "ナナカ",
+        "start": "な",
+        "end": "か"
+    },
+    {
+        "no": 371,
+        "group": "nanaka",
+        "yomi": "プリコネ",
+        "word": "まほうしょうじょ",
+        "start": "ま",
+        "end": "よ"
+    },
+    {
+        "no": 372,
+        "group": "nanaka",
+        "yomi": "プリコネ",
+        "word": "サイカワ",
+        "start": "さ",
+        "end": "わ"
+    },
+    {
+        "no": 373,
+        "group": "kasumi",
+        "yomi": "フツウ",
+        "word": "カスミ",
+        "start": "か",
+        "end": "み"
+    },
+    {
+        "no": 374,
+        "group": "kasumi",
+        "yomi": "プリコネ",
+        "word": "めいたんてい",
+        "start": "め",
+        "end": "い"
+    },
+    {
+        "no": 375,
+        "group": "kasumi",
+        "yomi": "プリコネ",
+        "word": "たんてい",
+        "start": "た",
+        "end": "い"
+    },
+    {
+        "no": 376,
+        "group": "misato",
+        "yomi": "フツウ",
+        "word": "ミサト",
+        "start": "み",
+        "end": "と"
+    },
+    {
+        "no": 377,
+        "group": "misato",
+        "yomi": "プリコネ",
+        "word": "ほいくえんのせんせい",
+        "start": "ほ",
+        "end": "い"
+    },
+    {
+        "no": 378,
+        "group": "suzuna",
+        "yomi": "フツウ",
+        "word": "スズナ",
+        "start": "す",
+        "end": "な"
+    },
+    {
+        "no": 379,
+        "group": "suzuna",
+        "yomi": "プリコネ",
+        "word": "カリスマモデル",
+        "start": "か",
+        "end": "る"
+    },
+    {
+        "no": 380,
+        "group": "suzuna",
+        "yomi": "プリコネ",
+        "word": "ギャル",
+        "start": "ぎ",
+        "end": "る"
+    },
+    {
+        "no": 381,
+        "group": "kaori",
+        "yomi": "フツウ",
+        "word": "カオリ",
+        "start": "か",
+        "end": "り"
+    },
+    {
+        "no": 382,
+        "group": "kaori",
+        "yomi": "プリコネ",
+        "word": "りゅうきゅうからて",
+        "start": "り",
+        "end": "て"
+    },
+    {
+        "no": 383,
+        "group": "kaori",
+        "yomi": "プリコネ",
+        "word": "ハイタ～イ",
+        "start": "は",
+        "end": "い"
+    },
+    {
+        "no": 384,
+        "group": "io",
+        "yomi": "フツウ",
+        "word": "イオ",
+        "start": "い",
+        "end": "お"
+    },
+    {
+        "no": 385,
+        "group": "io",
+        "yomi": "プリコネ",
+        "word": "ちゃんイオ",
+        "start": "ち",
+        "end": "お"
+    },
+    {
+        "no": 386,
+        "group": "io",
+        "yomi": "プリコネ",
+        "word": "しんまいきょうし",
+        "start": "し",
+        "end": "し"
+    },
+    {
+        "no": 387,
+        "group": "mimi",
+        "yomi": "フツウ",
+        "word": "ミミ",
+        "start": "み",
+        "end": "み"
+    },
+    {
+        "no": 388,
+        "group": "mimi",
+        "yomi": "プリコネ",
+        "word": "うさぎさんだいすき",
+        "start": "う",
+        "end": "き"
+    },
+    {
+        "no": 389,
+        "group": "kurumi",
+        "yomi": "フツウ",
+        "word": "クルミ",
+        "start": "く",
+        "end": "み"
+    },
+    {
+        "no": 390,
+        "group": "kurumi",
+        "yomi": "プリコネ",
+        "word": "めいじょゆう",
+        "start": "め",
+        "end": "う"
+    },
+    {
+        "no": 391,
+        "group": "yori",
+        "yomi": "フツウ",
+        "word": "ヨリ",
+        "start": "よ",
+        "end": "り"
+    },
+    {
+        "no": 392,
+        "group": "yori",
+        "yomi": "プリコネ",
+        "word": "ふたごのあね",
+        "start": "ふ",
+        "end": "ね"
+    },
+    {
+        "no": 393,
+        "group": "yori",
+        "yomi": "プリコネ",
+        "word": "シャイ",
+        "start": "し",
+        "end": "い"
+    },
+    {
+        "no": 394,
+        "group": "yori",
+        "yomi": "プリコネ",
+        "word": "てんさいゲーマー",
+        "start": "て",
+        "end": "ま"
+    },
+    {
+        "no": 395,
+        "group": "ayane",
+        "yomi": "フツウ",
+        "word": "アヤネ",
+        "start": "あ",
+        "end": "ね"
+    },
+    {
+        "no": 396,
+        "group": "ayane",
+        "yomi": "プリコネ",
+        "word": "ぷうきちのパートナー",
+        "start": "ぷ",
+        "end": "な"
+    },
+    {
+        "no": 397,
+        "group": "suzume",
+        "yomi": "フツウ",
+        "word": "スズメ",
+        "start": "す",
+        "end": "め"
+    },
+    {
+        "no": 398,
+        "group": "suzume",
+        "yomi": "プリコネ",
+        "word": "メイド",
+        "start": "め",
+        "end": "ど"
+    },
+    {
+        "no": 399,
+        "group": "suzume",
+        "yomi": "プリコネ",
+        "word": "おっちょこちょい",
+        "start": "お",
+        "end": "い"
+    },
+    {
+        "no": 400,
+        "group": "rin",
+        "yomi": "フツウ",
+        "word": "リン",
+        "start": "り",
+        "end": "ん"
+    },
+    {
+        "no": 401,
+        "group": "rin",
+        "yomi": "プリコネ",
+        "word": "ぐうたら",
+        "start": "ぐ",
+        "end": "ら"
+    },
+    {
+        "no": 402,
+        "group": "eriko",
+        "yomi": "フツウ",
+        "word": "エリコ",
+        "start": "え",
+        "end": "こ"
+    },
+    {
+        "no": 403,
+        "group": "eriko",
+        "yomi": "プリコネ",
+        "word": "デストロイヤー",
+        "start": "で",
+        "end": "や"
+    },
+    {
+        "no": 404,
+        "group": "saren",
+        "yomi": "フツウ",
+        "word": "サレン",
+        "start": "さ",
+        "end": "ん"
+    },
+    {
+        "no": 405,
+        "group": "saren",
+        "yomi": "プリコネ",
+        "word": "ママ",
+        "start": "ま",
+        "end": "ま"
+    },
+    {
+        "no": 406,
+        "group": "nozomi",
+        "yomi": "フツウ",
+        "word": "ノゾミ",
+        "start": "の",
+        "end": "み"
+    },
+    {
+        "no": 407,
+        "group": "nozomi",
+        "yomi": "プリコネ",
+        "word": "だいにんきアイドル",
+        "start": "だ",
+        "end": "る"
+    },
+    {
+        "no": 408,
+        "group": "ninon",
+        "yomi": "フツウ",
+        "word": "ニノン",
+        "start": "に",
+        "end": "ん"
+    },
+    {
+        "no": 409,
+        "group": "ninon",
+        "yomi": "プリコネ",
+        "word": "トーゴクかぶれ",
+        "start": "と",
+        "end": "れ"
+    },
+    {
+        "no": 410,
+        "group": "ninon",
+        "yomi": "プリコネ",
+        "word": "えせニンジャ",
+        "start": "え",
+        "end": "や"
+    },
+    {
+        "no": 411,
+        "group": "shinobu",
+        "yomi": "フツウ",
+        "word": "シノブ",
+        "start": "し",
+        "end": "ぶ"
+    },
+    {
+        "no": 412,
+        "group": "shinobu",
+        "yomi": "プリコネ",
+        "word": "うらないし",
+        "start": "う",
+        "end": "し"
+    },
+    {
+        "no": 413,
+        "group": "akino",
+        "yomi": "フツウ",
+        "word": "アキノ",
+        "start": "あ",
+        "end": "の"
+    },
+    {
+        "no": 414,
+        "group": "akino",
+        "yomi": "プリコネ",
+        "word": "ごれいじょう",
+        "start": "ご",
+        "end": "う"
+    },
+    {
+        "no": 415,
+        "group": "mahiru",
+        "yomi": "フツウ",
+        "word": "マヒル",
+        "start": "ま",
+        "end": "る"
+    },
+    {
+        "no": 416,
+        "group": "mahiru",
+        "yomi": "プリコネ",
+        "word": "ぼくじょうぬし",
+        "start": "ぼ",
+        "end": "し"
+    },
+    {
+        "no": 417,
+        "group": "mahiru",
+        "yomi": "プリコネ",
+        "word": "おわらいのみち",
+        "start": "お",
+        "end": "ち"
+    },
+    {
+        "no": 418,
+        "group": "yukari",
+        "yomi": "フツウ",
+        "word": "ユカリ",
+        "start": "ゆ",
+        "end": "り"
+    },
+    {
+        "no": 419,
+        "group": "yukari",
+        "yomi": "プリコネ",
+        "word": "のんべい",
+        "start": "の",
+        "end": "い"
+    },
+    {
+        "no": 420,
+        "group": "kyouka",
+        "yomi": "フツウ",
+        "word": "キョウカ",
+        "start": "き",
+        "end": "か"
+    },
+    {
+        "no": 421,
+        "group": "kyouka",
+        "yomi": "プリコネ",
+        "word": "ゆうとうせい",
+        "start": "ゆ",
+        "end": "い"
+    },
+    {
+        "no": 422,
+        "group": "tomo",
+        "yomi": "フツウ",
+        "word": "トモ",
+        "start": "と",
+        "end": "も"
+    },
+    {
+        "no": 423,
+        "group": "tomo",
+        "yomi": "プリコネ",
+        "word": "ミクマりゅう",
+        "start": "み",
+        "end": "う"
+    },
+    {
+        "no": 424,
+        "group": "shiori",
+        "yomi": "フツウ",
+        "word": "シオリ",
+        "start": "し",
+        "end": "り"
+    },
+    {
+        "no": 425,
+        "group": "shiori",
+        "yomi": "プリコネ",
+        "word": "ハツネちゃんのいもうと",
+        "start": "は",
+        "end": "と"
+    },
+    {
+        "no": 426,
+        "group": "aoi",
+        "yomi": "フツウ",
+        "word": "アオイ",
+        "start": "あ",
+        "end": "い"
+    },
+    {
+        "no": 427,
+        "group": "aoi",
+        "yomi": "プリコネ",
+        "word": "ぼっち",
+        "start": "ぼ",
+        "end": "ち"
+    },
+    {
+        "no": 428,
+        "group": "aoi",
+        "yomi": "プリコネ",
+        "word": "ビービーだんのメンバー",
+        "start": "び",
+        "end": "ば"
+    },
+    {
+        "no": 429,
+        "group": "chika",
+        "yomi": "フツウ",
+        "word": "チカ",
+        "start": "ち",
+        "end": "か"
+    },
+    {
+        "no": 430,
+        "group": "chika",
+        "yomi": "プリコネ",
+        "word": "しょうかんじゅつし",
+        "start": "し",
+        "end": "し"
+    },
+    {
+        "no": 431,
+        "group": "chika",
+        "yomi": "プリコネ",
+        "word": "うたひめ",
+        "start": "う",
+        "end": "め"
+    },
+    {
+        "no": 432,
+        "group": "makoto",
+        "yomi": "フツウ",
+        "word": "マコト",
+        "start": "ま",
+        "end": "と"
+    },
+    {
+        "no": 433,
+        "group": "makoto",
+        "yomi": "プリコネ",
+        "word": "ユイのおさななじみ",
+        "start": "ゆ",
+        "end": "み"
+    },
+    {
+        "no": 434,
+        "group": "ilya",
+        "yomi": "フツウ",
+        "word": "イリヤ",
+        "start": "い",
+        "end": "や"
+    },
+    {
+        "no": 435,
+        "group": "ilya",
+        "yomi": "プリコネ",
+        "word": "バンパイヤ",
+        "start": "ば",
+        "end": "や"
+    },
+    {
+        "no": 436,
+        "group": "ilya",
+        "yomi": "プリコネ",
+        "word": "でんせつのバンパイヤ",
+        "start": "で",
+        "end": "や"
+    },
+    {
+        "no": 437,
+        "group": "ilya",
+        "yomi": "プリコネ",
+        "word": "よるをすべるもの",
+        "start": "よ",
+        "end": "の"
+    },
+    {
+        "no": 438,
+        "group": "kuuka",
+        "yomi": "フツウ",
+        "word": "クウカ",
+        "start": "く",
+        "end": "か"
+    },
+    {
+        "no": 439,
+        "group": "kuuka",
+        "yomi": "プリコネ",
+        "word": "ドえむ",
+        "start": "ど",
+        "end": "む"
+    },
+    {
+        "no": 440,
+        "group": "tamaki",
+        "yomi": "フツウ",
+        "word": "タマキ",
+        "start": "た",
+        "end": "き"
+    },
+    {
+        "no": 441,
+        "group": "tamaki",
+        "yomi": "プリコネ",
+        "word": "ネコむすめ",
+        "start": "ね",
+        "end": "め"
+    },
+    {
+        "no": 442,
+        "group": "tamaki",
+        "yomi": "プリコネ",
+        "word": "ファントムキャッツ",
+        "start": "ふ",
+        "end": "つ"
+    },
+    {
+        "no": 443,
+        "group": "jun",
+        "yomi": "フツウ",
+        "word": "ジュン",
+        "start": "じ",
+        "end": "ん"
+    },
+    {
+        "no": 444,
+        "group": "jun",
+        "yomi": "プリコネ",
+        "word": "だんちょう",
+        "start": "だ",
+        "end": "う"
+    },
+    {
+        "no": 445,
+        "group": "mifuyu",
+        "yomi": "フツウ",
+        "word": "ミフユ",
+        "start": "み",
+        "end": "ゆ"
+    },
+    {
+        "no": 446,
+        "group": "mifuyu",
+        "yomi": "プリコネ",
+        "word": "ししょう",
+        "start": "し",
+        "end": "う"
+    },
+    {
+        "no": 447,
+        "group": "mifuyu",
+        "yomi": "プリコネ",
+        "word": "こうりつちゅう",
+        "start": "こ",
+        "end": "う"
+    },
+    {
+        "no": 448,
+        "group": "shizuru",
+        "yomi": "フツウ",
+        "word": "シズル",
+        "start": "し",
+        "end": "る"
+    },
+    {
+        "no": 449,
+        "group": "shizuru",
+        "yomi": "プリコネ",
+        "word": "おねえちゃんだよ",
+        "start": "お",
+        "end": "よ"
+    },
+    {
+        "no": 450,
+        "group": "misaki",
+        "yomi": "フツウ",
+        "word": "ミサキ",
+        "start": "み",
+        "end": "き"
+    },
+    {
+        "no": 451,
+        "group": "misaki",
+        "yomi": "プリコネ",
+        "word": "おとなのレディ",
+        "start": "お",
+        "end": "い"
+    },
+    {
+        "no": 452,
+        "group": "mitsuki",
+        "yomi": "フツウ",
+        "word": "ミツキ",
+        "start": "み",
+        "end": "き"
+    },
+    {
+        "no": 453,
+        "group": "mitsuki",
+        "yomi": "プリコネ",
+        "word": "マッドサイエンティスト",
+        "start": "ま",
+        "end": "と"
+    },
+    {
+        "no": 454,
+        "group": "mitsuki",
+        "yomi": "プリコネ",
+        "word": "ワンアイドデビル",
+        "start": "わ",
+        "end": "る"
+    },
+    {
+        "no": 455,
+        "group": "rima",
+        "yomi": "フツウ",
+        "word": "リマ",
+        "start": "り",
+        "end": "ま"
+    },
+    {
+        "no": 456,
+        "group": "rima",
+        "yomi": "プリコネ",
+        "word": "もふもふ",
+        "start": "も",
+        "end": "ふ"
+    },
+    {
+        "no": 457,
+        "group": "monika",
+        "yomi": "フツウ",
+        "word": "モニカ",
+        "start": "も",
+        "end": "か"
+    },
+    {
+        "no": 458,
+        "group": "monika",
+        "yomi": "プリコネ",
+        "word": "おこちゃま",
+        "start": "お",
+        "end": "ま"
+    },
+    {
+        "no": 459,
+        "group": "tsumugi",
+        "yomi": "フツウ",
+        "word": "ツムギ",
+        "start": "つ",
+        "end": "ぎ"
+    },
+    {
+        "no": 460,
+        "group": "tsumugi",
+        "yomi": "プリコネ",
+        "word": "テーラー",
+        "start": "て",
+        "end": "ら"
+    },
+    {
+        "no": 461,
+        "group": "tsumugi",
+        "yomi": "プリコネ",
+        "word": "レイさまファンクラブ",
+        "start": "れ",
+        "end": "ぶ"
+    },
+    {
+        "no": 462,
+        "group": "ayumi",
+        "yomi": "フツウ",
+        "word": "アユミ",
+        "start": "あ",
+        "end": "み"
+    },
+    {
+        "no": 463,
+        "group": "ayumi",
+        "yomi": "プリコネ",
+        "word": "モブ",
+        "start": "も",
+        "end": "ぶ"
+    },
+    {
+        "no": 464,
+        "group": "ruka",
+        "yomi": "フツウ",
+        "word": "ルカ",
+        "start": "る",
+        "end": "か"
+    },
+    {
+        "no": 465,
+        "group": "ruka",
+        "yomi": "プリコネ",
+        "word": "あねご",
+        "start": "あ",
+        "end": "ご"
+    },
+    {
+        "no": 466,
+        "group": "djeeta",
+        "yomi": "フツウ",
+        "word": "ジータ",
+        "start": "じ",
+        "end": "た"
+    },
+    {
+        "no": 467,
+        "group": "djeeta",
+        "yomi": "プリコネ",
+        "word": "きくうし",
+        "start": "き",
+        "end": "し"
+    },
+    {
+        "no": 468,
+        "group": "pecorine",
+        "yomi": "フツウ",
+        "word": "ペコリーヌ",
+        "start": "ぺ",
+        "end": "ぬ"
+    },
+    {
+        "no": 469,
+        "group": "pecorine",
+        "yomi": "プリコネ",
+        "word": "くいしんぼう",
+        "start": "く",
+        "end": "う"
+    },
+    {
+        "no": 470,
+        "group": "pecorine",
+        "yomi": "プリコネ",
+        "word": "おうけのそうび",
+        "start": "お",
+        "end": "び"
+    },
+    {
+        "no": 471,
+        "group": "pecorine",
+        "yomi": "プリコネ",
+        "word": "ヤバイですね",
+        "start": "や",
+        "end": "ね"
+    },
+    {
+        "no": 472,
+        "group": "pecorine",
+        "yomi": "プリコネ",
+        "word": "プリンセス",
+        "start": "ぷ",
+        "end": "す"
+    },
+    {
+        "no": 473,
+        "group": "kokkoro",
+        "yomi": "フツウ",
+        "word": "コッコロ",
+        "start": "こ",
+        "end": "ろ"
+    },
+    {
+        "no": 474,
+        "group": "kokkoro",
+        "yomi": "プリコネ",
+        "word": "ガイドやく",
+        "start": "が",
+        "end": "く"
+    },
+    {
+        "no": 475,
+        "group": "kokkoro",
+        "yomi": "プリコネ",
+        "word": "みこ",
+        "start": "み",
+        "end": "こ"
+    },
+    {
+        "no": 476,
+        "group": "kyaru",
+        "yomi": "フツウ",
+        "word": "キャル",
+        "start": "き",
+        "end": "る"
+    },
+    {
+        "no": 477,
+        "group": "kyaru",
+        "yomi": "プリコネ",
+        "word": "ツンデレ",
+        "start": "つ",
+        "end": "れ"
+    },
+    {
+        "no": 478,
+        "group": "kyaru",
+        "yomi": "プリコネ",
+        "word": "ヤバイわよ",
+        "start": "や",
+        "end": "よ"
+    },
+    {
+        "no": 479,
+        "group": "muimi",
+        "yomi": "フツウ",
+        "word": "ムイミ",
+        "start": "む",
+        "end": "み"
+    },
+    {
+        "no": 480,
+        "group": "muimi",
+        "yomi": "プリコネ",
+        "word": "ノウェム",
+        "start": "の",
+        "end": "む"
+    },
+    {
+        "no": 481,
+        "group": "arisa",
+        "yomi": "フツウ",
+        "word": "アリサ",
+        "start": "あ",
+        "end": "さ"
+    },
+    {
+        "no": 482,
+        "group": "arisa",
+        "yomi": "プリコネ",
+        "word": "エルフのおんな",
+        "start": "え",
+        "end": "な"
+    },
+    {
+        "no": 483,
+        "group": "arisa",
+        "yomi": "プリコネ",
+        "word": "もりばんみならい",
+        "start": "も",
+        "end": "い"
+    },
+    {
+        "no": 484,
+        "group": "neneka",
+        "yomi": "フツウ",
+        "word": "ネネカ",
+        "start": "ね",
+        "end": "か"
+    },
+    {
+        "no": 485,
+        "group": "neneka",
+        "yomi": "プリコネ",
+        "word": "メタモルレグナント",
+        "start": "め",
+        "end": "と"
+    },
+    {
+        "no": 486,
+        "group": "neneka",
+        "yomi": "プリコネ",
+        "word": "ぶんしんたい",
+        "start": "ぶ",
+        "end": "い"
+    },
+    {
+        "no": 487,
+        "group": "christina",
+        "yomi": "フツウ",
+        "word": "クリスティーナ",
+        "start": "く",
+        "end": "な"
+    },
+    {
+        "no": 488,
+        "group": "christina",
+        "yomi": "プリコネ",
+        "word": "レジーナゲッシュ",
+        "start": "れ",
+        "end": "ゆ"
+    },
+    {
+        "no": 489,
+        "group": "christina",
+        "yomi": "プリコネ",
+        "word": "ふくだんちょう",
+        "start": "ふ",
+        "end": "う"
+    },
+    {
+        "no": 490,
+        "group": "inori",
+        "yomi": "フツウ",
+        "word": "イノリ",
+        "start": "い",
+        "end": "り"
+    },
+    {
+        "no": 491,
+        "group": "inori",
+        "yomi": "プリコネ",
+        "word": "ドラゴンブレス",
+        "start": "ど",
+        "end": "す"
+    },
+    {
+        "no": 492,
+        "group": "inori",
+        "yomi": "プリコネ",
+        "word": "かんぶ",
+        "start": "か",
+        "end": "ぶ"
+    },
+    {
+        "no": 493,
+        "group": "kaya",
+        "yomi": "フツウ",
+        "word": "カヤ",
+        "start": "か",
+        "end": "や"
+    },
+    {
+        "no": 494,
+        "group": "kaya",
+        "yomi": "プリコネ",
+        "word": "のうきんケンカバカ",
+        "start": "の",
+        "end": "か"
+    },
+    {
+        "no": 495,
+        "group": "homare",
+        "yomi": "フツウ",
+        "word": "ホマレ",
+        "start": "ほ",
+        "end": "れ"
+    },
+    {
+        "no": 496,
+        "group": "homare",
+        "yomi": "プリコネ",
+        "word": "ギャングのボス",
+        "start": "ぎ",
+        "end": "す"
+    },
+    {
+        "no": 497,
+        "group": "chloe",
+        "yomi": "フツウ",
+        "word": "クロエ",
+        "start": "く",
+        "end": "え"
+    },
+    {
+        "no": 498,
+        "group": "chloe",
+        "yomi": "プリコネ",
+        "word": "ダウナー",
+        "start": "だ",
+        "end": "な"
+    },
+    {
+        "no": 499,
+        "group": "chloe",
+        "yomi": "プリコネ",
+        "word": "テレじょのやべーやつ",
+        "start": "て",
+        "end": "つ"
+    },
+    {
+        "no": 500,
+        "group": "chieru",
+        "yomi": "フツウ",
+        "word": "チエル",
+        "start": "ち",
+        "end": "る"
+    },
+    {
+        "no": 501,
+        "group": "chieru",
+        "yomi": "プリコネ",
+        "word": "れちぇるちぇぽぱぴ",
+        "start": "れ",
+        "end": "ぴ"
+    },
+    {
+        "no": 502,
+        "group": "chieru",
+        "yomi": "プリコネ",
+        "word": "テレじょのやべーやつ",
+        "start": "て",
+        "end": "つ"
+    },
+    {
+        "no": 503,
+        "group": "yuni",
+        "yomi": "フツウ",
+        "word": "ユニ",
+        "start": "ゆ",
+        "end": "に"
+    },
+    {
+        "no": 504,
+        "group": "yuni",
+        "yomi": "プリコネ",
+        "word": "ひきこもり",
+        "start": "ひ",
+        "end": "り"
+    },
+    {
+        "no": 505,
+        "group": "yuni",
+        "yomi": "プリコネ",
+        "word": "テレじょのやべーやつ",
+        "start": "て",
+        "end": "つ"
+    },
+    {
+        "no": 506,
+        "group": "robot",
+        "yomi": "フツウ",
+        "word": "ロボット",
+        "start": "ろ",
+        "end": "と"
+    },
+    {
+        "no": 507,
+        "group": "robot",
+        "yomi": "ウラ",
+        "word": "メカ",
+        "start": "め",
+        "end": "か"
+    },
+    {
+        "no": 508,
+        "group": "robot",
+        "yomi": "ウラ",
+        "word": "からくり",
+        "start": "か",
+        "end": "り"
+    },
+    {
+        "no": 509,
+        "group": "robot",
+        "yomi": "プリコネ",
+        "word": "なかよしえっくす",
+        "start": "な",
+        "end": "す"
+    },
+    {
+        "no": 510,
+        "group": "robot",
+        "yomi": "プリコネ",
+        "word": "ユニのりきさく",
+        "start": "ゆ",
+        "end": "く"
+    },
+    {
+        "no": 511,
+        "group": "mushrooms",
+        "yomi": "フツウ",
+        "word": "きのこ",
+        "start": "き",
+        "end": "こ"
+    },
+    {
+        "no": 512,
+        "group": "mushrooms",
+        "yomi": "フツウ",
+        "word": "どくきのこ",
+        "start": "ど",
+        "end": "こ"
+    },
+    {
+        "no": 513,
+        "group": "mushrooms",
+        "yomi": "ウラ",
+        "word": "マッシュルーム",
+        "start": "ま",
+        "end": "む"
+    },
+    {
+        "no": 514,
+        "group": "mushrooms",
+        "yomi": "プリコネ",
+        "word": "ベニタケ",
+        "start": "べ",
+        "end": "け"
+    },
+    {
+        "no": 515,
+        "group": "lion",
+        "yomi": "フツウ",
+        "word": "ライオン",
+        "start": "ら",
+        "end": "ん"
+    },
+    {
+        "no": 516,
+        "group": "lion",
+        "yomi": "フツウ",
+        "word": "しし",
+        "start": "し",
+        "end": "し"
+    },
+    {
+        "no": 517,
+        "group": "lion",
+        "yomi": "ウラ",
+        "word": "ひゃくじゅうのおう",
+        "start": "ひ",
+        "end": "う"
+    },
+    {
+        "no": 518,
+        "group": "lion",
+        "yomi": "ウラ",
+        "word": "たてがみ",
+        "start": "た",
+        "end": "み"
+    },
+    {
+        "no": 519,
+        "group": "lion",
+        "yomi": "ウラ",
+        "word": "けもの",
+        "start": "け",
+        "end": "の"
+    },
+    {
+        "no": 520,
+        "group": "lion",
+        "yomi": "プリコネ",
+        "word": "オルレオン",
+        "start": "お",
+        "end": "ん"
+    },
+    {
+        "no": 521,
+        "group": "pencil",
+        "yomi": "フツウ",
+        "word": "えんぴつ",
+        "start": "え",
+        "end": "つ"
+    },
+    {
+        "no": 522,
+        "group": "pencil",
+        "yomi": "フツウ",
+        "word": "あかえんぴつ",
+        "start": "あ",
+        "end": "つ"
+    },
+    {
+        "no": 523,
+        "group": "pencil",
+        "yomi": "ウラ",
+        "word": "ペンシル",
+        "start": "ぺ",
+        "end": "る"
+    },
+    {
+        "no": 524,
+        "group": "pencil",
+        "yomi": "ウラ",
+        "word": "ひっきようぐ",
+        "start": "ひ",
+        "end": "ぐ"
+    },
+    {
+        "no": 525,
+        "group": "pencil",
+        "yomi": "プリコネ",
+        "word": "キラーペンシル",
+        "start": "き",
+        "end": "る"
+    },
+    {
+        "no": 526,
+        "group": "sun",
+        "yomi": "フツウ",
+        "word": "たいよう",
+        "start": "た",
+        "end": "う"
+    },
+    {
+        "no": 527,
+        "group": "sun",
+        "yomi": "フツウ",
+        "word": "おひさま",
+        "start": "お",
+        "end": "ま"
+    },
+    {
+        "no": 528,
+        "group": "sun",
+        "yomi": "ウラ",
+        "word": "にっこう",
+        "start": "に",
+        "end": "う"
+    },
+    {
+        "no": 529,
+        "group": "sun",
+        "yomi": "ウラ",
+        "word": "はれのひ",
+        "start": "は",
+        "end": "ひ"
+    },
+    {
+        "no": 530,
+        "group": "airship",
+        "yomi": "フツウ",
+        "word": "ひこうてい",
+        "start": "ひ",
+        "end": "い"
+    },
+    {
+        "no": 531,
+        "group": "airship",
+        "yomi": "ウラ",
+        "word": "ふね",
+        "start": "ふ",
+        "end": "ね"
+    },
+    {
+        "no": 532,
+        "group": "airship",
+        "yomi": "ウラ",
+        "word": "エアシップ",
+        "start": "え",
+        "end": "ぷ"
+    },
+    {
+        "no": 533,
+        "group": "airship",
+        "yomi": "ウラ",
+        "word": "そらのたび",
+        "start": "そ",
+        "end": "び"
+    },
+    {
+        "no": 534,
+        "group": "airship",
+        "yomi": "プリコネ",
+        "word": "モニカのかんたい",
+        "start": "も",
+        "end": "い"
+    },
+    {
+        "no": 535,
+        "group": "rose",
+        "yomi": "フツウ",
+        "word": "バラ",
+        "start": "ば",
+        "end": "ら"
+    },
+    {
+        "no": 536,
+        "group": "rose",
+        "yomi": "フツウ",
+        "word": "いばら",
+        "start": "い",
+        "end": "ら"
+    },
+    {
+        "no": 537,
+        "group": "rose",
+        "yomi": "フツウ",
+        "word": "はな",
+        "start": "は",
+        "end": "な"
+    },
+    {
+        "no": 538,
+        "group": "rose",
+        "yomi": "ウラ",
+        "word": "ローズ",
+        "start": "ろ",
+        "end": "ず"
+    },
+    {
+        "no": 539,
+        "group": "sushi",
+        "yomi": "フツウ",
+        "word": "すし",
+        "start": "す",
+        "end": "し"
+    },
+    {
+        "no": 540,
+        "group": "sushi",
+        "yomi": "フツウ",
+        "word": "にぎりずし",
+        "start": "に",
+        "end": "し"
+    },
+    {
+        "no": 541,
+        "group": "sushi",
+        "yomi": "フツウ",
+        "word": "マグロ",
+        "start": "ま",
+        "end": "ろ"
+    },
+    {
+        "no": 542,
+        "group": "sushi",
+        "yomi": "プリコネ",
+        "word": "トゥンヌスのにぎり",
+        "start": "と",
+        "end": "り"
+    },
+    {
+        "no": 543,
+        "group": "sushi",
+        "yomi": "プリコネ",
+        "word": "オーマのびしょく",
+        "start": "お",
+        "end": "く"
+    },
+    {
+        "no": 544,
+        "group": "mirror",
+        "yomi": "フツウ",
+        "word": "かがみ",
+        "start": "か",
+        "end": "み"
+    },
+    {
+        "no": 545,
+        "group": "mirror",
+        "yomi": "ウラ",
+        "word": "ミラー",
+        "start": "み",
+        "end": "ら"
+    },
+    {
+        "no": 546,
+        "group": "mirror",
+        "yomi": "ウラ",
+        "word": "エチケットアイテム",
+        "start": "え",
+        "end": "む"
+    },
+    {
+        "no": 547,
+        "group": "mirror",
+        "yomi": "プリコネ",
+        "word": "ユキのあいようひん",
+        "start": "ゆ",
+        "end": "ん"
+    },
+    {
+        "no": 548,
+        "group": "tiara",
+        "yomi": "フツウ",
+        "word": "ティアラ",
+        "start": "て",
+        "end": "ら"
+    },
+    {
+        "no": 549,
+        "group": "tiara",
+        "yomi": "フツウ",
+        "word": "かんむり",
+        "start": "か",
+        "end": "り"
+    },
+    {
+        "no": 550,
+        "group": "tiara",
+        "yomi": "ウラ",
+        "word": "そうしょくひん",
+        "start": "そ",
+        "end": "ん"
+    },
+    {
+        "no": 551,
+        "group": "tiara",
+        "yomi": "ウラ",
+        "word": "アクセサリー",
+        "start": "あ",
+        "end": "り"
+    },
+    {
+        "no": 552,
+        "group": "tiara",
+        "yomi": "プリコネ",
+        "word": "ペコリーヌのティアラ",
+        "start": "ぺ",
+        "end": "ら"
+    },
+    {
+        "no": 553,
+        "group": "tiara",
+        "yomi": "プリコネ",
+        "word": "おうけのそうび",
+        "start": "お",
+        "end": "び"
+    },
+    {
+        "no": 554,
+        "group": "oden",
+        "yomi": "フツウ",
+        "word": "おでん",
+        "start": "お",
+        "end": "ん"
+    },
+    {
+        "no": 555,
+        "group": "oden",
+        "yomi": "フツウ",
+        "word": "にもの",
+        "start": "に",
+        "end": "の"
+    },
+    {
+        "no": 556,
+        "group": "oden",
+        "yomi": "フツウ",
+        "word": "なべ",
+        "start": "な",
+        "end": "べ"
+    },
+    {
+        "no": 557,
+        "group": "oden",
+        "yomi": "プリコネ",
+        "word": "ドラゴンテイルおでん",
+        "start": "ど",
+        "end": "ん"
+    },
+    {
+        "no": 558,
+        "group": "light-bulb",
+        "yomi": "フツウ",
+        "word": "でんきゅう",
+        "start": "で",
+        "end": "う"
+    },
+    {
+        "no": 559,
+        "group": "light-bulb",
+        "yomi": "フツウ",
+        "word": "あかり",
+        "start": "あ",
+        "end": "り"
+    },
+    {
+        "no": 560,
+        "group": "light-bulb",
+        "yomi": "ウラ",
+        "word": "はくねつきゅう",
+        "start": "は",
+        "end": "う"
+    },
+    {
+        "no": 561,
+        "group": "light-bulb",
+        "yomi": "ウラ",
+        "word": "まめでんきゅう",
+        "start": "ま",
+        "end": "う"
+    },
+    {
+        "no": 562,
+        "group": "light-bulb",
+        "yomi": "ウラ",
+        "word": "ピカピカ",
+        "start": "ぴ",
+        "end": "か"
+    },
+    {
+        "no": 563,
+        "group": "light-bulb",
+        "yomi": "プリコネ",
+        "word": "カスミのひらめき",
+        "start": "か",
+        "end": "き"
+    },
+    {
+        "no": 564,
+        "group": "cloud",
+        "yomi": "フツウ",
+        "word": "くも",
+        "start": "く",
+        "end": "も"
+    },
+    {
+        "no": 565,
+        "group": "cloud",
+        "yomi": "ウラ",
+        "word": "にゅうどうぐも",
+        "start": "に",
+        "end": "も"
+    },
+    {
+        "no": 566,
+        "group": "cloud",
+        "yomi": "ウラ",
+        "word": "どんてん",
+        "start": "ど",
+        "end": "ん"
+    },
+    {
+        "no": 567,
+        "group": "cloud",
+        "yomi": "ウラ",
+        "word": "わたあめ",
+        "start": "わ",
+        "end": "め"
+    },
+    {
+        "no": 568,
+        "group": "cloud",
+        "yomi": "プリコネ",
+        "word": "ライライ",
+        "start": "ら",
+        "end": "い"
+    },
+    {
+        "no": 569,
+        "group": "axe",
+        "yomi": "フツウ",
+        "word": "おの",
+        "start": "お",
+        "end": "の"
+    },
+    {
+        "no": 570,
+        "group": "axe",
+        "yomi": "フツウ",
+        "word": "いしおの",
+        "start": "い",
+        "end": "の"
+    },
+    {
+        "no": 571,
+        "group": "axe",
+        "yomi": "ウラ",
+        "word": "アックス",
+        "start": "あ",
+        "end": "す"
+    },
+    {
+        "no": 572,
+        "group": "axe",
+        "yomi": "プリコネ",
+        "word": "ゴブリングレートのえもの",
+        "start": "ご",
+        "end": "の"
+    },
+    {
+        "no": 573,
+        "group": "hot-spring",
+        "yomi": "フツウ",
+        "word": "おんせん",
+        "start": "お",
+        "end": "ん"
+    },
+    {
+        "no": 574,
+        "group": "hot-spring",
+        "yomi": "フツウ",
+        "word": "いわぶろ",
+        "start": "い",
+        "end": "ろ"
+    },
+    {
+        "no": 575,
+        "group": "hot-spring",
+        "yomi": "フツウ",
+        "word": "ろてんぶろ",
+        "start": "ろ",
+        "end": "ろ"
+    },
+    {
+        "no": 576,
+        "group": "hot-spring",
+        "yomi": "ウラ",
+        "word": "めいとう",
+        "start": "め",
+        "end": "う"
+    },
+    {
+        "no": 577,
+        "group": "hot-spring",
+        "yomi": "プリコネ",
+        "word": "クリスティーナリゾートスパ",
+        "start": "く",
+        "end": "ぱ"
+    },
+    {
+        "no": 578,
+        "group": "pillow",
+        "yomi": "フツウ",
+        "word": "まくら",
+        "start": "ま",
+        "end": "ら"
+    },
+    {
+        "no": 579,
+        "group": "pillow",
+        "yomi": "フツウ",
+        "word": "だきまくら",
+        "start": "だ",
+        "end": "ら"
+    },
+    {
+        "no": 580,
+        "group": "pillow",
+        "yomi": "ウラ",
+        "word": "しんぐ",
+        "start": "し",
+        "end": "ぐ"
+    },
+    {
+        "no": 581,
+        "group": "pillow",
+        "yomi": "ウラ",
+        "word": "ピロー",
+        "start": "ぴ",
+        "end": "ろ"
+    },
+    {
+        "no": 582,
+        "group": "pillow",
+        "yomi": "プリコネ",
+        "word": "ハツネのたからもの",
+        "start": "は",
+        "end": "の"
+    },
+    {
+        "no": 583,
+        "group": "magazine",
+        "yomi": "フツウ",
+        "word": "ざっし",
+        "start": "ざ",
+        "end": "し"
+    },
+    {
+        "no": 584,
+        "group": "magazine",
+        "yomi": "ウラ",
+        "word": "マガジン",
+        "start": "ま",
+        "end": "ん"
+    },
+    {
+        "no": 585,
+        "group": "magazine",
+        "yomi": "ウラ",
+        "word": "ファッションし",
+        "start": "ふ",
+        "end": "し"
+    },
+    {
+        "no": 586,
+        "group": "magazine",
+        "yomi": "プリコネ",
+        "word": "スズナのしゃしんしゅう",
+        "start": "す",
+        "end": "う"
+    },
+    {
+        "no": 587,
+        "group": "drum",
+        "yomi": "フツウ",
+        "word": "たいこ",
+        "start": "た",
+        "end": "こ"
+    },
+    {
+        "no": 588,
+        "group": "drum",
+        "yomi": "フツウ",
+        "word": "こだいこ",
+        "start": "こ",
+        "end": "こ"
+    },
+    {
+        "no": 589,
+        "group": "drum",
+        "yomi": "ウラ",
+        "word": "ドラム",
+        "start": "ど",
+        "end": "む"
+    },
+    {
+        "no": 590,
+        "group": "drum",
+        "yomi": "ウラ",
+        "word": "スネアドラム",
+        "start": "す",
+        "end": "む"
+    },
+    {
+        "no": 591,
+        "group": "drum",
+        "yomi": "ウラ",
+        "word": "だがっき",
+        "start": "だ",
+        "end": "き"
+    },
+    {
+        "no": 592,
+        "group": "constellation",
+        "yomi": "フツウ",
+        "word": "せいざ",
+        "start": "せ",
+        "end": "ざ"
+    },
+    {
+        "no": 593,
+        "group": "constellation",
+        "yomi": "フツウ",
+        "word": "てんたい",
+        "start": "て",
+        "end": "い"
+    },
+    {
+        "no": 594,
+        "group": "constellation",
+        "yomi": "フツウ",
+        "word": "ぎんが",
+        "start": "ぎ",
+        "end": "が"
+    },
+    {
+        "no": 595,
+        "group": "constellation",
+        "yomi": "ウラ",
+        "word": "よぞら",
+        "start": "よ",
+        "end": "ら"
+    },
+    {
+        "no": 596,
+        "group": "constellation",
+        "yomi": "ウラ",
+        "word": "ほしのかがやき",
+        "start": "ほ",
+        "end": "き"
+    },
+    {
+        "no": 597,
+        "group": "constellation",
+        "yomi": "プリコネ",
+        "word": "おにぎりざ",
+        "start": "お",
+        "end": "ざ"
+    },
+    {
+        "no": 598,
+        "group": "tomato",
+        "yomi": "フツウ",
+        "word": "トマト",
+        "start": "と",
+        "end": "と"
+    },
+    {
+        "no": 599,
+        "group": "tomato",
+        "yomi": "フツウ",
+        "word": "プチトマト",
+        "start": "ぷ",
+        "end": "と"
+    },
+    {
+        "no": 600,
+        "group": "tomato",
+        "yomi": "ウラ",
+        "word": "ばんか",
+        "start": "ば",
+        "end": "か"
+    },
+    {
+        "no": 601,
+        "group": "tomato",
+        "yomi": "ウラ",
+        "word": "ケチャップ",
+        "start": "け",
+        "end": "ぷ"
+    },
+    {
+        "no": 602,
+        "group": "field",
+        "yomi": "フツウ",
+        "word": "はらっぱ",
+        "start": "は",
+        "end": "ぱ"
+    },
+    {
+        "no": 603,
+        "group": "field",
+        "yomi": "フツウ",
+        "word": "そうげん",
+        "start": "そ",
+        "end": "ん"
+    },
+    {
+        "no": 604,
+        "group": "field",
+        "yomi": "フツウ",
+        "word": "のはら",
+        "start": "の",
+        "end": "ら"
+    },
+    {
+        "no": 605,
+        "group": "rainbow",
+        "yomi": "フツウ",
+        "word": "にじ",
+        "start": "に",
+        "end": "じ"
+    },
+    {
+        "no": 606,
+        "group": "rainbow",
+        "yomi": "フツウ",
+        "word": "レインボー",
+        "start": "れ",
+        "end": "ぼ"
+    },
+    {
+        "no": 607,
+        "group": "rainbow",
+        "yomi": "フツウ",
+        "word": "なないろ",
+        "start": "な",
+        "end": "ろ"
+    },
+    {
+        "no": 608,
+        "group": "rainbow",
+        "yomi": "ウラ",
+        "word": "そらにかかるはし",
+        "start": "そ",
+        "end": "し"
+    },
+    {
+        "no": 609,
+        "group": "rainbow",
+        "yomi": "ウラ",
+        "word": "あめあがり",
+        "start": "あ",
+        "end": "り"
+    },
+    {
+        "no": 610,
+        "group": "shaved-ice",
+        "yomi": "フツウ",
+        "word": "かきごおり",
+        "start": "か",
+        "end": "り"
+    },
+    {
+        "no": 611,
+        "group": "shaved-ice",
+        "yomi": "フツウ",
+        "word": "ブルーハワイ",
+        "start": "ぶ",
+        "end": "い"
+    },
+    {
+        "no": 612,
+        "group": "shaved-ice",
+        "yomi": "ウラ",
+        "word": "フラッペ",
+        "start": "ふ",
+        "end": "ぺ"
+    },
+    {
+        "no": 613,
+        "group": "shaved-ice",
+        "yomi": "ウラ",
+        "word": "なつのふうぶつし",
+        "start": "な",
+        "end": "し"
+    },
+    {
+        "no": 614,
+        "group": "butterfly",
+        "yomi": "フツウ",
+        "word": "ちょうちょ",
+        "start": "ち",
+        "end": "よ"
+    },
+    {
+        "no": 615,
+        "group": "butterfly",
+        "yomi": "フツウ",
+        "word": "アゲハ",
+        "start": "あ",
+        "end": "は"
+    },
+    {
+        "no": 616,
+        "group": "butterfly",
+        "yomi": "フツウ",
+        "word": "クロアゲハ",
+        "start": "く",
+        "end": "は"
+    },
+    {
+        "no": 617,
+        "group": "butterfly",
+        "yomi": "ウラ",
+        "word": "むし",
+        "start": "む",
+        "end": "し"
+    },
+    {
+        "no": 618,
+        "group": "butterfly",
+        "yomi": "ウラ",
+        "word": "こんちゅう",
+        "start": "こ",
+        "end": "う"
+    },
+    {
+        "no": 619,
+        "group": "butterfly",
+        "yomi": "ウラ",
+        "word": "バタフライ",
+        "start": "ば",
+        "end": "い"
+    },
+    {
+        "no": 620,
+        "group": "tower",
+        "yomi": "フツウ",
+        "word": "とう",
+        "start": "と",
+        "end": "う"
+    },
+    {
+        "no": 621,
+        "group": "tower",
+        "yomi": "ウラ",
+        "word": "タワー",
+        "start": "た",
+        "end": "わ"
+    },
+    {
+        "no": 622,
+        "group": "tower",
+        "yomi": "ウラ",
+        "word": "てんぼうだい",
+        "start": "て",
+        "end": "い"
+    },
+    {
+        "no": 623,
+        "group": "tower",
+        "yomi": "ウラ",
+        "word": "みはりだい",
+        "start": "み",
+        "end": "い"
+    },
+    {
+        "no": 624,
+        "group": "tower",
+        "yomi": "ウラ",
+        "word": "まてんろう",
+        "start": "ま",
+        "end": "う"
+    },
+    {
+        "no": 625,
+        "group": "ice-cream",
+        "yomi": "フツウ",
+        "word": "アイスクリーム",
+        "start": "あ",
+        "end": "む"
+    },
+    {
+        "no": 626,
+        "group": "ice-cream",
+        "yomi": "フツウ",
+        "word": "ジェラート",
+        "start": "じ",
+        "end": "と"
+    },
+    {
+        "no": 627,
+        "group": "ice-cream",
+        "yomi": "ウラ",
+        "word": "チョコミントアイス",
+        "start": "ち",
+        "end": "す"
+    },
+    {
+        "no": 628,
+        "group": "ice-cream",
+        "yomi": "ウラ",
+        "word": "ひょうか",
+        "start": "ひ",
+        "end": "か"
+    },
+    {
+        "no": 629,
+        "group": "ice-cream",
+        "yomi": "プリコネ",
+        "word": "シェフィのこうぶつ",
+        "start": "し",
+        "end": "つ"
+    },
+    {
+        "no": 630,
+        "group": "donut",
+        "yomi": "フツウ",
+        "word": "ドーナツ",
+        "start": "ど",
+        "end": "つ"
+    },
+    {
+        "no": 631,
+        "group": "donut",
+        "yomi": "ウラ",
+        "word": "おやつ",
+        "start": "お",
+        "end": "つ"
+    },
+    {
+        "no": 632,
+        "group": "donut",
+        "yomi": "ウラ",
+        "word": "チョコドーナツ",
+        "start": "ち",
+        "end": "つ"
+    },
+    {
+        "no": 633,
+        "group": "ticket",
+        "yomi": "フツウ",
+        "word": "チケット",
+        "start": "ち",
+        "end": "と"
+    },
+    {
+        "no": 634,
+        "group": "ticket",
+        "yomi": "フツウ",
+        "word": "けん",
+        "start": "け",
+        "end": "ん"
+    },
+    {
+        "no": 635,
+        "group": "ticket",
+        "yomi": "プリコネ",
+        "word": "スキップチケット",
+        "start": "す",
+        "end": "と"
+    },
+    {
+        "no": 636,
+        "group": "float",
+        "yomi": "フツウ",
+        "word": "うきわ",
+        "start": "う",
+        "end": "わ"
+    },
+    {
+        "no": 637,
+        "group": "float",
+        "yomi": "ウラ",
+        "word": "フロート",
+        "start": "ふ",
+        "end": "と"
+    },
+    {
+        "no": 638,
+        "group": "float",
+        "yomi": "ウラ",
+        "word": "かなづちのひっすアイテム",
+        "start": "か",
+        "end": "む"
+    },
+    {
+        "no": 639,
+        "group": "float",
+        "yomi": "プリコネ",
+        "word": "キャルのうきわ",
+        "start": "き",
+        "end": "わ"
+    },
+    {
+        "no": 640,
+        "group": "sunglasses",
+        "yomi": "フツウ",
+        "word": "サングラス",
+        "start": "さ",
+        "end": "す"
+    },
+    {
+        "no": 641,
+        "group": "sunglasses",
+        "yomi": "ウラ",
+        "word": "グラサン",
+        "start": "ぐ",
+        "end": "ん"
+    },
+    {
+        "no": 642,
+        "group": "sunglasses",
+        "yomi": "ウラ",
+        "word": "くろめがね",
+        "start": "く",
+        "end": "ね"
+    },
+    {
+        "no": 643,
+        "group": "sunglasses",
+        "yomi": "ウラ",
+        "word": "ハードボイルド",
+        "start": "は",
+        "end": "ど"
+    },
+    {
+        "no": 644,
+        "group": "sunglasses",
+        "yomi": "プリコネ",
+        "word": "キャルのサングラス",
+        "start": "き",
+        "end": "す"
+    },
+    {
+        "no": 645,
+        "group": "shuriken",
+        "yomi": "フツウ",
+        "word": "しゅりけん",
+        "start": "し",
+        "end": "ん"
+    },
+    {
+        "no": 646,
+        "group": "shuriken",
+        "yomi": "ウラ",
+        "word": "とびどうぐ",
+        "start": "と",
+        "end": "ぐ"
+    },
+    {
+        "no": 647,
+        "group": "shuriken",
+        "yomi": "ウラ",
+        "word": "にんじゃ",
+        "start": "に",
+        "end": "や"
+    },
+    {
+        "no": 648,
+        "group": "shuriken",
+        "yomi": "プリコネ",
+        "word": "オーエドのみやげもの",
+        "start": "お",
+        "end": "の"
+    },
+    {
+        "no": 649,
+        "group": "house",
+        "yomi": "フツウ",
+        "word": "いえ",
+        "start": "い",
+        "end": "え"
+    },
+    {
+        "no": 650,
+        "group": "house",
+        "yomi": "フツウ",
+        "word": "おうち",
+        "start": "お",
+        "end": "ち"
+    },
+    {
+        "no": 651,
+        "group": "house",
+        "yomi": "ウラ",
+        "word": "ハウス",
+        "start": "は",
+        "end": "す"
+    },
+    {
+        "no": 652,
+        "group": "house",
+        "yomi": "ウラ",
+        "word": "たてもの",
+        "start": "た",
+        "end": "の"
+    },
+    {
+        "no": 653,
+        "group": "house",
+        "yomi": "プリコネ",
+        "word": "ギルドハウス",
+        "start": "ぎ",
+        "end": "す"
+    },
+    {
+        "no": 654,
+        "group": "riceball",
+        "yomi": "フツウ",
+        "word": "おにぎり",
+        "start": "お",
+        "end": "り"
+    },
+    {
+        "no": 655,
+        "group": "riceball",
+        "yomi": "ウラ",
+        "word": "ライスボール",
+        "start": "ら",
+        "end": "る"
+    },
+    {
+        "no": 656,
+        "group": "riceball",
+        "yomi": "プリコネ",
+        "word": "むげんおにぎり",
+        "start": "む",
+        "end": "り"
+    },
+    {
+        "no": 657,
+        "group": "riceball",
+        "yomi": "プリコネ",
+        "word": "ペコリーヌのこうぶつ",
+        "start": "ぺ",
+        "end": "つ"
+    },
+    {
+        "no": 658,
+        "group": "green-pepper",
+        "yomi": "フツウ",
+        "word": "ピーマン",
+        "start": "ぴ",
+        "end": "ん"
+    },
+    {
+        "no": 659,
+        "group": "green-pepper",
+        "yomi": "ウラ",
+        "word": "パプリカ",
+        "start": "ぱ",
+        "end": "か"
+    },
+    {
+        "no": 660,
+        "group": "green-pepper",
+        "yomi": "ウラ",
+        "word": "りょくおうしょくやさい",
+        "start": "り",
+        "end": "い"
+    },
+    {
+        "no": 661,
+        "group": "green-pepper",
+        "yomi": "プリコネ",
+        "word": "キョウカのにがてなもの",
+        "start": "き",
+        "end": "の"
+    },
+    {
+        "no": 662,
+        "group": "chestnut",
+        "yomi": "フツウ",
+        "word": "くり",
+        "start": "く",
+        "end": "り"
+    },
+    {
+        "no": 663,
+        "group": "chestnut",
+        "yomi": "ウラ",
+        "word": "マロン",
+        "start": "ま",
+        "end": "ん"
+    },
+    {
+        "no": 664,
+        "group": "chestnut",
+        "yomi": "ウラ",
+        "word": "イガイガ",
+        "start": "い",
+        "end": "が"
+    },
+    {
+        "no": 665,
+        "group": "chestnut",
+        "yomi": "ウラ",
+        "word": "あきのみかく",
+        "start": "あ",
+        "end": "く"
+    },
+    {
+        "no": 666,
+        "group": "sweet-potato",
+        "yomi": "フツウ",
+        "word": "やきいも",
+        "start": "や",
+        "end": "も"
+    },
+    {
+        "no": 667,
+        "group": "sweet-potato",
+        "yomi": "フツウ",
+        "word": "サツマイモ",
+        "start": "さ",
+        "end": "も"
+    },
+    {
+        "no": 668,
+        "group": "sweet-potato",
+        "yomi": "ウラ",
+        "word": "スイートポテト",
+        "start": "す",
+        "end": "と"
+    },
+    {
+        "no": 669,
+        "group": "sweet-potato",
+        "yomi": "ウラ",
+        "word": "あきのみかく",
+        "start": "あ",
+        "end": "く"
+    },
+    {
+        "no": 670,
+        "group": "sweet-potato",
+        "yomi": "ウラ",
+        "word": "ほかほかやきたて",
+        "start": "ほ",
+        "end": "て"
+    },
+    {
+        "no": 671,
+        "group": "chili-pepper",
+        "yomi": "フツウ",
+        "word": "とうがらし",
+        "start": "と",
+        "end": "し"
+    },
+    {
+        "no": 672,
+        "group": "chili-pepper",
+        "yomi": "フツウ",
+        "word": "たかのつめ",
+        "start": "た",
+        "end": "め"
+    },
+    {
+        "no": 673,
+        "group": "chili-pepper",
+        "yomi": "ウラ",
+        "word": "チリペッパー",
+        "start": "ち",
+        "end": "ぱ"
+    },
+    {
+        "no": 674,
+        "group": "chili-pepper",
+        "yomi": "ウラ",
+        "word": "スパイス",
+        "start": "す",
+        "end": "す"
+    },
+    {
+        "no": 675,
+        "group": "chili-pepper",
+        "yomi": "プリコネ",
+        "word": "ドラゴンもどきのひのみ",
+        "start": "ど",
+        "end": "み"
+    },
+    {
+        "no": 676,
+        "group": "shrimp",
+        "yomi": "フツウ",
+        "word": "エビ",
+        "start": "え",
+        "end": "び"
+    },
+    {
+        "no": 677,
+        "group": "shrimp",
+        "yomi": "ウラ",
+        "word": "シュリンプ",
+        "start": "し",
+        "end": "ぷ"
+    },
+    {
+        "no": 678,
+        "group": "shrimp",
+        "yomi": "ウラ",
+        "word": "うみのさち",
+        "start": "う",
+        "end": "ち"
+    },
+    {
+        "no": 679,
+        "group": "shrimp",
+        "yomi": "ウラ",
+        "word": "とれたて",
+        "start": "と",
+        "end": "て"
+    },
+    {
+        "no": 680,
+        "group": "skirt",
+        "yomi": "フツウ",
+        "word": "スカート",
+        "start": "す",
+        "end": "と"
+    },
+    {
+        "no": 681,
+        "group": "skirt",
+        "yomi": "ウラ",
+        "word": "ミニスカート",
+        "start": "み",
+        "end": "と"
+    },
+    {
+        "no": 682,
+        "group": "skirt",
+        "yomi": "ウラ",
+        "word": "プリーツスカート",
+        "start": "ぷ",
+        "end": "と"
+    },
+    {
+        "no": 683,
+        "group": "pants",
+        "yomi": "フツウ",
+        "word": "ズボン",
+        "start": "ず",
+        "end": "ん"
+    },
+    {
+        "no": 684,
+        "group": "pants",
+        "yomi": "ウラ",
+        "word": "ボトムス",
+        "start": "ぼ",
+        "end": "す"
+    },
+    {
+        "no": 685,
+        "group": "pants",
+        "yomi": "ウラ",
+        "word": "パンツ",
+        "start": "ぱ",
+        "end": "つ"
+    },
+    {
+        "no": 686,
+        "group": "pants",
+        "yomi": "ウラ",
+        "word": "たんぱん",
+        "start": "た",
+        "end": "ん"
+    },
+    {
+        "no": 687,
+        "group": "airplane",
+        "yomi": "フツウ",
+        "word": "ひこうき",
+        "start": "ひ",
+        "end": "き"
+    },
+    {
+        "no": 688,
+        "group": "airplane",
+        "yomi": "ウラ",
+        "word": "プロペラ",
+        "start": "ぷ",
+        "end": "ら"
+    },
+    {
+        "no": 689,
+        "group": "airplane",
+        "yomi": "ウラ",
+        "word": "ラジコン",
+        "start": "ら",
+        "end": "ん"
+    },
+    {
+        "no": 690,
+        "group": "airplane",
+        "yomi": "ウラ",
+        "word": "エアプレーン",
+        "start": "え",
+        "end": "ん"
+    },
+    {
+        "no": 691,
+        "group": "rain",
+        "yomi": "フツウ",
+        "word": "あめ",
+        "start": "あ",
+        "end": "め"
+    },
+    {
+        "no": 692,
+        "group": "rain",
+        "yomi": "ウラ",
+        "word": "レイン",
+        "start": "れ",
+        "end": "ん"
+    },
+    {
+        "no": 693,
+        "group": "rain",
+        "yomi": "ウラ",
+        "word": "うてん",
+        "start": "う",
+        "end": "ん"
+    },
+    {
+        "no": 694,
+        "group": "rain",
+        "yomi": "ウラ",
+        "word": "おおあめ",
+        "start": "お",
+        "end": "め"
+    },
+    {
+        "no": 695,
+        "group": "wand",
+        "yomi": "フツウ",
+        "word": "つえ",
+        "start": "つ",
+        "end": "え"
+    },
+    {
+        "no": 696,
+        "group": "wand",
+        "yomi": "ウラ",
+        "word": "ステッキ",
+        "start": "す",
+        "end": "き"
+    },
+    {
+        "no": 697,
+        "group": "wand",
+        "yomi": "ウラ",
+        "word": "まほうのつえ",
+        "start": "ま",
+        "end": "え"
+    },
+    {
+        "no": 698,
+        "group": "spear",
+        "yomi": "フツウ",
+        "word": "やり",
+        "start": "や",
+        "end": "り"
+    },
+    {
+        "no": 699,
+        "group": "spear",
+        "yomi": "ウラ",
+        "word": "スピア",
+        "start": "す",
+        "end": "あ"
+    },
+    {
+        "no": 700,
+        "group": "spear",
+        "yomi": "ウラ",
+        "word": "ほこ",
+        "start": "ほ",
+        "end": "こ"
+    },
+    {
+        "no": 701,
+        "group": "spear",
+        "yomi": "ウラ",
+        "word": "ながえ",
+        "start": "な",
+        "end": "え"
+    },
+    {
+        "no": 702,
+        "group": "helmet",
+        "yomi": "フツウ",
+        "word": "かぶと",
+        "start": "か",
+        "end": "と"
+    },
+    {
+        "no": 703,
+        "group": "helmet",
+        "yomi": "ウラ",
+        "word": "よろい",
+        "start": "よ",
+        "end": "い"
+    },
+    {
+        "no": 704,
+        "group": "helmet",
+        "yomi": "ウラ",
+        "word": "アーマー",
+        "start": "あ",
+        "end": "ま"
+    },
+    {
+        "no": 705,
+        "group": "helmet",
+        "yomi": "ウラ",
+        "word": "ぼうぐ",
+        "start": "ぼ",
+        "end": "ぐ"
+    },
+    {
+        "no": 706,
+        "group": "helmet",
+        "yomi": "プリコネ",
+        "word": "おうきゅうきしだんのよろい",
+        "start": "お",
+        "end": "い"
+    },
+    {
+        "no": 707,
+        "group": "helmet",
+        "yomi": "プリコネ",
+        "word": "リビングメイル",
+        "start": "り",
+        "end": "る"
+    },
+    {
+        "no": 708,
+        "group": "key",
+        "yomi": "フツウ",
+        "word": "かぎ",
+        "start": "か",
+        "end": "ぎ"
+    },
+    {
+        "no": 709,
+        "group": "key",
+        "yomi": "ウラ",
+        "word": "キー",
+        "start": "き",
+        "end": "き"
+    },
+    {
+        "no": 710,
+        "group": "key",
+        "yomi": "ウラ",
+        "word": "マスターキー",
+        "start": "ま",
+        "end": "き"
+    },
+    {
+        "no": 711,
+        "group": "treasure-box",
+        "yomi": "フツウ",
+        "word": "たからばこ",
+        "start": "た",
+        "end": "こ"
+    },
+    {
+        "no": 712,
+        "group": "treasure-box",
+        "yomi": "ウラ",
+        "word": "トレジャーボックス",
+        "start": "と",
+        "end": "す"
+    },
+    {
+        "no": 713,
+        "group": "treasure-box",
+        "yomi": "ウラ",
+        "word": "おたから",
+        "start": "お",
+        "end": "ら"
+    },
+    {
+        "no": 714,
+        "group": "treasure-box",
+        "yomi": "プリコネ",
+        "word": "レアドロップ",
+        "start": "れ",
+        "end": "ぷ"
+    },
+    {
+        "no": 715,
+        "group": "dragon",
+        "yomi": "フツウ",
+        "word": "ドラゴン",
+        "start": "ど",
+        "end": "ん"
+    },
+    {
+        "no": 716,
+        "group": "dragon",
+        "yomi": "ウラ",
+        "word": "きょうりゅう",
+        "start": "き",
+        "end": "う"
+    },
+    {
+        "no": 717,
+        "group": "dragon",
+        "yomi": "ウラ",
+        "word": "ダイナソー",
+        "start": "だ",
+        "end": "そ"
+    },
+    {
+        "no": 718,
+        "group": "dragon",
+        "yomi": "ウラ",
+        "word": "でんせつのせいぶつ",
+        "start": "で",
+        "end": "つ"
+    },
+    {
+        "no": 719,
+        "group": "dragon",
+        "yomi": "プリコネ",
+        "word": "ラースドラゴン",
+        "start": "ら",
+        "end": "ん"
+    },
+    {
+        "no": 720,
+        "group": "characters",
+        "yomi": "フツウ",
+        "word": "もじ",
+        "start": "も",
+        "end": "じ"
+    },
+    {
+        "no": 721,
+        "group": "characters",
+        "yomi": "フツウ",
+        "word": "ひらがな",
+        "start": "ひ",
+        "end": "な"
+    },
+    {
+        "no": 722,
+        "group": "characters",
+        "yomi": "プリコネ",
+        "word": "ちぇる",
+        "start": "ち",
+        "end": "る"
+    },
+    {
+        "no": 723,
+        "group": "handcuffs",
+        "yomi": "フツウ",
+        "word": "てかせ",
+        "start": "て",
+        "end": "せ"
+    },
+    {
+        "no": 724,
+        "group": "handcuffs",
+        "yomi": "フツウ",
+        "word": "あしかせ",
+        "start": "あ",
+        "end": "せ"
+    },
+    {
+        "no": 725,
+        "group": "handcuffs",
+        "yomi": "フツウ",
+        "word": "こうそくぐ",
+        "start": "こ",
+        "end": "ぐ"
+    },
+    {
+        "no": 726,
+        "group": "handcuffs",
+        "yomi": "プリコネ",
+        "word": "クウカのおきにいり",
+        "start": "く",
+        "end": "り"
+    },
+    {
+        "no": 727,
+        "group": "gate",
+        "yomi": "フツウ",
+        "word": "もん",
+        "start": "も",
+        "end": "ん"
+    },
+    {
+        "no": 728,
+        "group": "gate",
+        "yomi": "ウラ",
+        "word": "こうもん",
+        "start": "こ",
+        "end": "ん"
+    },
+    {
+        "no": 729,
+        "group": "gate",
+        "yomi": "ウラ",
+        "word": "てっぴ",
+        "start": "て",
+        "end": "ぴ"
+    },
+    {
+        "no": 730,
+        "group": "gate",
+        "yomi": "プリコネ",
+        "word": "セントテレサじょがくいん",
+        "start": "せ",
+        "end": "ん"
+    },
+    {
+        "no": 731,
+        "group": "shefi",
+        "yomi": "フツウ",
+        "word": "シェフィ",
+        "start": "し",
+        "end": "い"
+    },
+    {
+        "no": 732,
+        "group": "shefi",
+        "yomi": "プリコネ",
+        "word": "ドラゴンぞくのしょうじょ",
+        "start": "ど",
+        "end": "よ"
+    },
+    {
+        "no": 733,
+        "group": "karin",
+        "yomi": "フツウ",
+        "word": "カリン",
+        "start": "か",
+        "end": "ん"
+    },
+    {
+        "no": 734,
+        "group": "karin",
+        "yomi": "プリコネ",
+        "word": "ギルドかんりきょうかい",
+        "start": "ぎ",
+        "end": "い"
+    },
+    {
+        "no": 735,
+        "group": "karin",
+        "yomi": "プリコネ",
+        "word": "ナビゲーター",
+        "start": "な",
+        "end": "た"
+    },
+    {
+        "no": 736,
+        "group": "karin",
+        "yomi": "プリコネ",
+        "word": "クソメガネ",
+        "start": "く",
+        "end": "ね"
+    },
+    {
+        "no": 737,
+        "group": "elder-cloud",
+        "yomi": "フツウ",
+        "word": "エルダークラウド",
+        "start": "え",
+        "end": "ど"
+    },
+    {
+        "no": 738,
+        "group": "elder-cloud",
+        "yomi": "プリコネ",
+        "word": "かみなりぐも",
+        "start": "か",
+        "end": "も"
+    },
+    {
+        "no": 739,
+        "group": "elder-cloud",
+        "yomi": "プリコネ",
+        "word": "ライライのてした",
+        "start": "ら",
+        "end": "た"
+    },
+    {
+        "no": 740,
+        "group": "sleepy-owl",
+        "yomi": "フツウ",
+        "word": "スリーピィオウル",
+        "start": "す",
+        "end": "る"
+    },
+    {
+        "no": 741,
+        "group": "sleepy-owl",
+        "yomi": "プリコネ",
+        "word": "ふくろう",
+        "start": "ふ",
+        "end": "う"
+    },
+    {
+        "no": 742,
+        "group": "ring-tanuki",
+        "yomi": "フツウ",
+        "word": "ワッパダヌキ",
+        "start": "わ",
+        "end": "き"
+    },
+    {
+        "no": 743,
+        "group": "ring-tanuki",
+        "yomi": "プリコネ",
+        "word": "たぬき",
+        "start": "た",
+        "end": "き"
+    },
+    {
+        "no": 744,
+        "group": "ring-tanuki",
+        "yomi": "プリコネ",
+        "word": "こだぬき",
+        "start": "こ",
+        "end": "き"
+    },
+    {
+        "no": 745,
+        "group": "ring-tanuki",
+        "yomi": "プリコネ",
+        "word": "ちゃがま",
+        "start": "ち",
+        "end": "ま"
+    },
+    {
+        "no": 746,
+        "group": "ring-tanuki",
+        "yomi": "プリコネ",
+        "word": "マスターセンリのこぶん",
+        "start": "ま",
+        "end": "ん"
+    },
+    {
+        "no": 747,
+        "group": "golem",
+        "yomi": "フツウ",
+        "word": "ゴーレム",
+        "start": "ご",
+        "end": "む"
+    },
+    {
+        "no": 748,
+        "group": "golem",
+        "yomi": "プリコネ",
+        "word": "がんせきのまもの",
+        "start": "が",
+        "end": "の"
+    },
+    {
+        "no": 749,
+        "group": "golem",
+        "yomi": "プリコネ",
+        "word": "スズメのおともだち",
+        "start": "す",
+        "end": "ち"
+    },
+    {
+        "no": 750,
+        "group": "mora",
+        "yomi": "フツウ",
+        "word": "モーラ",
+        "start": "も",
+        "end": "ら"
+    },
+    {
+        "no": 751,
+        "group": "mora",
+        "yomi": "プリコネ",
+        "word": "まほうせいぶつ",
+        "start": "ま",
+        "end": "つ"
+    },
+    {
+        "no": 752,
+        "group": "mora",
+        "yomi": "プリコネ",
+        "word": "ラブリーモニカのあいぼう",
+        "start": "ら",
+        "end": "う"
+    },
+    {
+        "no": 753,
+        "group": "mora",
+        "yomi": "プリコネ",
+        "word": "はためいわくなけだま",
+        "start": "は",
+        "end": "ま"
+    }
+]
