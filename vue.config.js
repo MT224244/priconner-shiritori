@@ -13,5 +13,11 @@ module.exports = {
         themeColor: '#ffaa5a',
         msTileColor: '#ece6ce',
         appleMobileWebAppCapable: 'yes'
+    },
+    pages: {
+        index: {
+            entry: "src/main.ts",
+            title: 'ドラちゃんのチートシート'
+        }
     }
 };

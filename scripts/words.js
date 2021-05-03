@@ -38,4 +38,4 @@ words.forEach((w, i) => {
     words[i].end = word[word.length - 1];
 });
 
-writeFileSync(wordsFilePath, JSON.stringify(words, undefined, 4));
+writeFileSync(wordsFilePath, JSON.stringify(words, undefined, 4) + '\n');

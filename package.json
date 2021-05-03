@@ -1,6 +1,13 @@
 {
     "name": "priconner-shiritori",
     "version": "0.1.0",
+    "author": "MT224244",
+    "homepage": "https://github.com/MT224244/priconner-shiritori",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MT224244/priconner-shiritori.git"
+    },
+    "license": "MIT",
     "private": true,
     "scripts": {
         "serve": "vue-cli-service serve",
