@@ -14,7 +14,7 @@ for (var i = 0; i < layers.length; i++) {
     layers[i].visible = false;
 }
 
-const opt = new PNGSaveOptions();
+const opt = new GIFSaveOptions();
 opt.interlaced = false;
 
 for (var i = 0; i < layers.length; i++) {
@@ -22,7 +22,7 @@ for (var i = 0; i < layers.length; i++) {
 
     layers[i].visible = true;
 
-    var fileName = layers[i].name + '.png';
+    var fileName = layers[i].name + '.gif';
     var filePath = new File(panelsDir + fileName);
 
     doc.saveAs(filePath, opt, true, Extension.LOWERCASE);
