@@ -8,7 +8,11 @@ import '@quasar/extras/roboto-font/roboto-font.css';
 import '@quasar/extras/mdi-v5/mdi-v5.css';
 
 Vue.use(Quasar, {
-    config: {},
+    config: {
+        screen: {
+            bodyClasses: true
+        }
+    },
     plugins: {},
     lang,
     iconSet

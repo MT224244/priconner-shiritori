@@ -12,6 +12,7 @@
                 <div v-if="$q.screen.gt.xs" class="row items-center">
                     <q-tabs stretch>
                         <q-route-tab to="/" label="ホーム"/>
+                        <q-route-tab to="/panels" label="パネル一覧"/>
                     </q-tabs>
                     <q-separator vertical class="q-mx-sm q-my-xs"/>
                     <q-btn
@@ -44,6 +45,7 @@
             <div class="fit drawer-content">
                 <q-tabs vertical indicator-color="transparent" style="height: auto">
                     <q-route-tab to="/" label="ホーム"/>
+                    <q-route-tab to="/panels" label="パネル一覧"/>
                 </q-tabs>
                 <q-separator class="q-my-md"/>
                 <q-btn
