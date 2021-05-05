@@ -1,8 +1,14 @@
+/**
+ * ヨミタイプ
+ */
 type Yomi =
     | 'フツウ'
     | 'ウラ'
     | 'プリコネ';
 
+/**
+ * ワードデータ
+ */
 type Word = {
     no: number;
     group: string;
@@ -12,4 +18,17 @@ type Word = {
     end: string;
 };
 
-type Words = Word[];
+/**
+ * 並べ替えタイプ
+ */
+ type SortType =
+ | 'number'
+ | 'syllabary';
+
+/**
+* 検索タイプ
+*/
+type SearchType =
+ | 'fuzzy'
+ | 'prefix'
+ | 'suffix';
